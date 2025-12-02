@@ -1,0 +1,2001 @@
+order_id,order_date,customer_name,region,category,product_name,sales,quantity,profit
+1,2023-04-24,Michael,North,Technology,USB Hub,19930,10,5736.64
+2,2023-06-27,John,West,Technology,Smartphone,5620,10,1418.41
+3,2024-09-23,Amit,West,Furniture,Sofa,171,1,27.18
+4,2024-08-24,Sneha,North,Technology,Smartphone,9976,8,2004.28
+5,2024-09-20,Rahul,South,Office Supplies,Paper,38,2,17.25
+6,2024-07-23,Sarah,East,Office Supplies,Binder,126,7,48.9
+7,2023-07-22,John,West,Technology,USB Hub,582,2,108.13
+8,2024-09-03,Sarah,West,Furniture,Desk,2817,9,164.25
+9,2024-10-22,Rahul,East,Office Supplies,Stapler,120,10,51.01
+10,2024-01-02,David,East,Technology,Laptop,10480,10,3031.46
+11,2023-11-30,Priya,East,Office Supplies,Binder,68,2,23.66
+12,2023-01-22,Michael,South,Office Supplies,Binder,196,7,90.39
+13,2023-03-25,Sneha,North,Furniture,Sofa,6984,9,621.24
+14,2023-03-14,Sarah,South,Office Supplies,Pen Set,282,6,111.27
+15,2023-11-19,Rahul,West,Office Supplies,Stapler,95,5,30.53
+16,2023-08-17,Priya,East,Furniture,Chair,8020,10,-802.0
+17,2023-04-02,Amit,North,Office Supplies,Stapler,55,5,16.65
+18,2023-01-28,Amit,North,Furniture,Sofa,680,2,42.22
+19,2024-06-14,Michael,South,Technology,USB Hub,4032,6,644.53
+20,2023-04-29,David,North,Technology,Monitor,7782,6,1252.82
+21,2023-01-29,Chandan,East,Furniture,Bookshelf,8430,10,453.31
+22,2024-03-19,Rahul,North,Office Supplies,Pen Set,171,9,76.35
+23,2023-07-04,John,South,Office Supplies,Folder,115,5,37.52
+24,2023-02-01,Michael,West,Technology,USB Hub,4686,3,1310.62
+25,2024-06-22,Michael,West,Technology,Smartphone,10136,8,2749.01
+26,2024-02-21,Emily,North,Furniture,Chair,2060,5,251.42
+27,2024-04-17,David,North,Office Supplies,Folder,72,4,35.53
+28,2023-05-02,John,South,Technology,USB Hub,1116,4,114.71
+29,2023-01-17,Priya,West,Office Supplies,Binder,42,1,20.16
+30,2023-01-12,John,South,Furniture,Bookshelf,4347,7,360.84
+31,2024-01-18,Sneha,East,Technology,Laptop,1070,2,199.58
+32,2023-02-05,Chandan,East,Office Supplies,Stapler,270,6,110.89
+33,2024-10-07,Emily,East,Technology,Smartphone,4428,6,747.68
+34,2024-11-08,Priya,East,Office Supplies,Pen Set,126,3,58.26
+35,2023-02-20,David,South,Technology,Smartphone,4460,10,593.92
+36,2023-04-21,Rahul,West,Furniture,Bookshelf,7560,8,1179.56
+37,2024-01-31,Emily,North,Furniture,Sofa,3227,7,372.17
+38,2024-03-08,David,North,Office Supplies,Binder,100,2,39.22
+39,2024-03-09,Chandan,West,Technology,Smartphone,1230,1,189.67
+40,2024-04-03,Emily,East,Office Supplies,Pen Set,200,4,-20.0
+41,2023-05-03,Sneha,East,Technology,Laptop,10566,9,2549.0
+42,2024-02-02,David,North,Furniture,Chair,1125,3,-112.5
+43,2024-10-08,Michael,North,Furniture,Desk,6280,10,-628.0
+44,2023-09-20,Rahul,East,Office Supplies,Binder,150,6,73.61
+45,2023-10-01,Chandan,West,Technology,USB Hub,11910,10,2039.52
+46,2024-03-01,John,West,Furniture,Desk,5810,10,451.78
+47,2024-01-16,Sneha,South,Office Supplies,Pen Set,400,10,193.37
+48,2024-08-13,Chandan,North,Furniture,Desk,4506,6,537.48
+49,2023-01-17,Chandan,West,Office Supplies,Folder,192,6,72.36
+50,2023-09-20,John,North,Office Supplies,Pen Set,192,4,91.09
+51,2023-09-03,Emily,East,Office Supplies,Paper,256,8,89.24
+52,2023-02-06,Sarah,West,Technology,USB Hub,3780,9,566.51
+53,2023-04-29,Sneha,North,Technology,Headphones,15736,8,-1573.6
+54,2023-06-11,Emily,East,Furniture,Chair,964,4,82.97
+55,2023-08-03,Rahul,South,Furniture,Desk,2673,9,157.68
+56,2023-01-11,Sarah,East,Office Supplies,Paper,288,8,96.72
+57,2024-02-15,Sarah,West,Furniture,Bookshelf,2634,6,174.56
+58,2023-05-15,John,North,Technology,Laptop,535,1,94.58
+59,2023-02-18,Sarah,West,Office Supplies,Pen Set,270,9,92.28
+60,2023-04-22,Chandan,North,Furniture,Table,4500,10,-450.0
+61,2023-03-22,Amit,South,Furniture,Bookshelf,4365,5,240.76
+62,2024-01-10,Amit,East,Technology,USB Hub,12190,10,2862.01
+63,2023-12-18,Sneha,North,Office Supplies,Stapler,396,9,118.95
+64,2023-09-06,Priya,West,Technology,Headphones,9246,6,1843.52
+65,2024-11-14,David,West,Technology,Monitor,1308,6,303.5
+66,2023-06-21,Sneha,West,Technology,USB Hub,7164,9,1342.89
+67,2023-11-18,Amit,North,Technology,Laptop,2685,5,400.91
+68,2024-09-27,John,South,Furniture,Desk,8770,10,1211.94
+69,2023-04-19,John,West,Technology,Monitor,9303,7,1661.64
+70,2023-09-30,David,North,Technology,USB Hub,14408,8,3225.72
+71,2024-09-24,David,North,Technology,Smartphone,5728,4,896.49
+72,2024-03-29,John,South,Office Supplies,Pen Set,117,3,35.45
+73,2024-09-26,Michael,South,Technology,USB Hub,4015,5,-401.5
+74,2023-12-05,John,South,Office Supplies,Stapler,99,9,37.52
+75,2023-06-18,Michael,East,Technology,Smartphone,3055,5,473.54
+76,2024-10-19,Priya,South,Technology,Monitor,2282,7,303.25
+77,2024-02-08,Sneha,North,Technology,Laptop,1974,6,338.8
+78,2023-06-21,Amit,South,Technology,USB Hub,1399,1,287.96
+79,2023-12-18,Emily,East,Technology,Headphones,1569,1,467.71
+80,2024-09-07,Chandan,North,Furniture,Table,4505,5,440.35
+81,2023-01-19,David,South,Technology,USB Hub,9380,7,1041.3
+82,2023-01-16,John,North,Furniture,Table,2716,7,496.06
+83,2024-08-07,Sarah,East,Office Supplies,Stapler,184,4,84.75
+84,2024-08-26,Amit,North,Office Supplies,Pen Set,60,4,18.97
+85,2024-08-13,Michael,North,Office Supplies,Folder,240,8,117.62
+86,2024-01-01,John,East,Furniture,Sofa,1254,6,147.91
+87,2024-11-23,Sarah,South,Office Supplies,Binder,72,4,32.62
+88,2024-06-21,Sarah,West,Office Supplies,Paper,117,9,38.09
+89,2023-11-10,Michael,East,Office Supplies,Pen Set,147,3,57.18
+90,2024-04-27,Sneha,North,Technology,Headphones,552,1,103.33
+91,2023-07-12,Sneha,East,Technology,Headphones,7824,4,1401.75
+92,2023-08-05,Sarah,North,Technology,Monitor,674,1,-67.4
+93,2023-01-22,Chandan,North,Technology,Headphones,412,2,-41.2
+94,2023-07-27,John,West,Furniture,Bookshelf,1728,9,200.12
+95,2024-03-16,David,East,Technology,Headphones,13896,8,3898.97
+96,2023-01-09,Amit,East,Furniture,Table,1518,3,240.19
+97,2023-01-25,Amit,East,Office Supplies,Pen Set,120,6,58.26
+98,2024-01-17,Sarah,South,Technology,Headphones,2912,7,424.09
+99,2024-07-06,Sarah,South,Office Supplies,Binder,30,6,10.14
+100,2023-03-08,John,West,Furniture,Desk,1479,3,257.47
+101,2023-10-24,John,East,Office Supplies,Binder,42,6,13.67
+102,2023-03-31,John,East,Technology,Headphones,2562,3,725.15
+103,2024-07-23,Amit,North,Technology,Laptop,2732,2,637.73
+104,2024-04-03,Emily,North,Office Supplies,Paper,96,8,35.97
+105,2024-03-16,Chandan,North,Office Supplies,Pen Set,235,5,81.09
+106,2023-06-09,Amit,North,Furniture,Sofa,934,1,112.14
+107,2023-07-30,Priya,East,Furniture,Table,3380,10,368.11
+108,2023-05-18,Michael,East,Furniture,Table,2106,6,335.55
+109,2023-08-14,Rahul,North,Furniture,Sofa,672,6,127.6
+110,2024-07-08,Amit,South,Office Supplies,Pen Set,390,10,171.48
+111,2023-02-06,Rahul,South,Office Supplies,Pen Set,360,10,135.25
+112,2023-01-28,David,South,Furniture,Bookshelf,1872,2,143.88
+113,2024-06-12,John,South,Technology,Smartphone,14384,8,2632.95
+114,2023-06-19,Amit,South,Furniture,Sofa,1932,2,105.38
+115,2024-01-16,Emily,West,Furniture,Desk,7860,10,532.82
+116,2023-03-14,Sarah,East,Office Supplies,Paper,45,3,17.11
+117,2023-07-04,Sneha,South,Office Supplies,Folder,352,8,147.36
+118,2024-08-21,David,West,Office Supplies,Pen Set,288,8,98.37
+119,2024-01-16,Michael,West,Technology,Smartphone,2620,4,718.76
+120,2023-12-31,Michael,East,Office Supplies,Pen Set,102,3,49.7
+121,2024-06-16,Michael,South,Furniture,Desk,1617,7,98.08
+122,2023-06-13,Sarah,West,Furniture,Sofa,1190,10,116.43
+123,2024-10-22,Emily,East,Furniture,Chair,987,1,60.38
+124,2023-01-27,Rahul,North,Office Supplies,Pen Set,56,4,22.95
+125,2023-09-17,John,East,Technology,Smartphone,3073,7,-307.3
+126,2024-07-07,Sarah,North,Office Supplies,Stapler,38,2,17.75
+127,2024-02-03,Emily,South,Technology,Smartphone,15480,9,4185.96
+128,2024-10-17,John,North,Office Supplies,Paper,430,10,192.38
+129,2024-08-10,Rahul,South,Furniture,Chair,5971,7,928.68
+130,2024-04-26,Rahul,West,Technology,Headphones,3426,3,957.79
+131,2023-07-29,Priya,North,Furniture,Table,650,1,47.06
+132,2023-07-24,Emily,North,Furniture,Table,2058,6,390.96
+133,2023-12-06,Priya,North,Technology,Headphones,4530,6,-453.0
+134,2023-01-15,Rahul,North,Furniture,Desk,1272,2,141.16
+135,2023-01-01,Sarah,South,Office Supplies,Pen Set,136,4,61.12
+136,2024-11-01,Chandan,West,Office Supplies,Paper,60,6,25.86
+137,2023-08-05,Rahul,East,Office Supplies,Binder,188,4,90.8
+138,2023-11-04,Sarah,North,Office Supplies,Binder,140,7,-14.0
+139,2024-10-23,Amit,West,Furniture,Chair,257,1,22.41
+140,2023-07-01,Michael,South,Furniture,Bookshelf,3484,4,415.91
+141,2024-02-22,Emily,East,Office Supplies,Binder,54,6,22.04
+142,2024-03-01,Amit,East,Technology,Headphones,2403,3,431.15
+143,2023-04-04,Chandan,South,Office Supplies,Stapler,300,6,-30.0
+144,2023-04-11,Amit,East,Office Supplies,Folder,43,1,14.67
+145,2024-07-05,Chandan,North,Furniture,Desk,923,1,148.3
+146,2023-02-01,Michael,West,Technology,USB Hub,5005,5,594.31
+147,2024-04-15,Chandan,North,Furniture,Bookshelf,4232,8,400.51
+148,2024-02-21,Sneha,West,Office Supplies,Binder,162,9,66.95
+149,2023-05-06,Priya,East,Office Supplies,Stapler,150,5,51.04
+150,2023-07-03,Chandan,West,Furniture,Sofa,3860,10,213.81
+151,2024-05-02,Michael,South,Office Supplies,Pen Set,294,7,95.48
+152,2024-05-04,Priya,South,Furniture,Sofa,2210,5,-221.0
+153,2023-06-22,John,East,Technology,Monitor,402,1,89.42
+154,2023-01-15,Priya,West,Furniture,Bookshelf,830,1,111.9
+155,2024-02-16,Emily,West,Technology,Laptop,3408,8,868.56
+156,2023-07-20,Sneha,North,Furniture,Table,678,1,85.72
+157,2023-08-28,Rahul,North,Technology,Headphones,3495,3,702.67
+158,2024-08-10,Priya,West,Technology,Headphones,10150,7,2094.38
+159,2023-09-06,Chandan,North,Technology,USB Hub,2600,4,426.46
+160,2023-04-01,David,East,Office Supplies,Paper,54,6,-5.4
+161,2023-12-18,Michael,North,Technology,Headphones,246,1,33.47
+162,2024-09-05,Sarah,North,Office Supplies,Stapler,63,7,29.18
+163,2023-12-02,Rahul,North,Furniture,Table,1092,3,137.48
+164,2023-08-25,John,North,Furniture,Sofa,868,4,112.66
+165,2023-10-15,John,West,Furniture,Desk,192,1,26.16
+166,2023-11-26,David,South,Furniture,Sofa,138,1,15.47
+167,2023-04-28,Chandan,West,Office Supplies,Binder,20,4,9.04
+168,2023-08-21,Sarah,East,Technology,Smartphone,756,2,136.76
+169,2023-02-12,Chandan,South,Office Supplies,Folder,210,10,94.98
+170,2024-02-26,Sneha,East,Furniture,Table,2040,8,183.47
+171,2023-12-28,Michael,West,Office Supplies,Stapler,30,6,14.11
+172,2024-07-02,Rahul,West,Office Supplies,Folder,108,3,45.12
+173,2023-09-16,Amit,East,Office Supplies,Paper,96,6,31.2
+174,2023-11-02,Chandan,North,Office Supplies,Binder,315,7,157.05
+175,2024-09-11,Sarah,South,Office Supplies,Paper,176,4,76.5
+176,2023-06-06,David,East,Furniture,Desk,2880,6,147.83
+177,2024-08-20,Sarah,North,Office Supplies,Stapler,340,10,120.12
+178,2024-10-20,Amit,South,Furniture,Desk,462,3,82.74
+179,2023-07-27,Sarah,East,Office Supplies,Pen Set,135,5,54.47
+180,2023-09-13,David,East,Office Supplies,Stapler,48,8,17.3
+181,2024-07-06,Chandan,North,Technology,Laptop,8658,9,2523.98
+182,2024-04-22,Priya,West,Technology,Monitor,12728,8,2825.58
+183,2024-07-23,Michael,North,Office Supplies,Folder,315,7,110.76
+184,2024-08-21,Chandan,North,Technology,Monitor,9219,7,-921.9
+185,2023-03-27,Rahul,West,Office Supplies,Paper,301,7,148.02
+186,2024-04-25,Sarah,West,Technology,Smartphone,4464,6,1156.65
+187,2024-05-15,Sneha,South,Office Supplies,Stapler,155,5,-15.5
+188,2023-05-16,Emily,East,Technology,Monitor,3830,5,1068.04
+189,2023-11-04,Amit,West,Furniture,Chair,1140,5,160.9
+190,2024-03-18,Sneha,North,Office Supplies,Paper,112,7,36.34
+191,2024-05-24,Chandan,West,Technology,Headphones,7155,9,1182.57
+192,2023-07-18,Sarah,North,Furniture,Sofa,801,3,122.72
+193,2024-07-16,David,North,Office Supplies,Pen Set,36,3,16.2
+194,2024-08-27,John,South,Technology,Smartphone,14016,8,1983.87
+195,2024-06-07,David,South,Office Supplies,Pen Set,238,7,117.07
+196,2023-12-05,Sarah,East,Office Supplies,Stapler,156,4,58.19
+197,2023-03-06,John,East,Technology,Headphones,2412,9,688.7
+198,2024-06-09,Amit,South,Technology,Laptop,4580,4,1121.47
+199,2023-02-21,David,West,Technology,Monitor,3195,9,817.43
+200,2024-09-21,David,West,Office Supplies,Pen Set,235,5,75.55
+201,2023-07-20,Emily,West,Technology,Monitor,10674,9,2517.47
+202,2024-10-23,Michael,South,Office Supplies,Binder,168,6,77.53
+203,2024-01-29,Amit,East,Technology,Smartphone,7020,5,2104.58
+204,2023-02-07,Emily,West,Technology,Headphones,12439,7,2233.51
+205,2023-10-10,John,South,Technology,Smartphone,5232,3,824.65
+206,2024-03-21,Sneha,South,Technology,USB Hub,18300,10,2412.85
+207,2024-11-15,Amit,East,Furniture,Chair,6132,7,811.97
+208,2024-11-19,Sneha,North,Office Supplies,Paper,46,2,15.34
+209,2024-09-07,Sneha,East,Technology,Laptop,850,2,105.56
+210,2023-03-30,Amit,East,Furniture,Bookshelf,1521,3,138.5
+211,2023-05-13,Sarah,North,Office Supplies,Pen Set,96,3,38.25
+212,2024-05-30,Chandan,East,Furniture,Chair,8856,9,1304.66
+213,2023-11-26,Sneha,North,Office Supplies,Pen Set,180,5,62.93
+214,2023-05-11,David,South,Office Supplies,Binder,96,4,42.83
+215,2024-03-06,David,West,Office Supplies,Stapler,186,6,80.8
+216,2023-10-29,Emily,West,Office Supplies,Paper,378,9,-37.8
+217,2024-09-01,David,South,Office Supplies,Pen Set,58,2,28.98
+218,2024-02-28,Michael,North,Office Supplies,Pen Set,30,2,14.53
+219,2024-09-19,Rahul,West,Office Supplies,Folder,69,3,30.36
+220,2024-11-22,Priya,South,Technology,Smartphone,2028,2,367.65
+221,2024-07-07,Sneha,North,Furniture,Chair,5388,6,929.33
+222,2024-06-27,David,South,Technology,USB Hub,6318,9,815.0
+223,2023-04-02,Sneha,East,Technology,Headphones,2952,9,802.5
+224,2023-05-30,Priya,East,Office Supplies,Stapler,430,10,212.45
+225,2024-11-03,Emily,South,Office Supplies,Pen Set,160,5,55.96
+226,2024-02-23,John,West,Office Supplies,Paper,156,6,72.16
+227,2024-11-17,Emily,North,Office Supplies,Paper,18,1,5.9
+228,2023-01-27,Amit,East,Technology,Headphones,3981,3,780.98
+229,2023-07-20,Amit,South,Office Supplies,Folder,36,6,-3.6
+230,2023-03-02,Rahul,South,Technology,Headphones,14085,9,4103.92
+231,2024-09-16,Amit,North,Technology,Smartphone,6660,5,709.57
+232,2023-11-07,Amit,East,Furniture,Desk,3940,5,699.7
+233,2024-09-27,Sarah,South,Office Supplies,Binder,28,1,13.77
+234,2024-10-12,Chandan,East,Furniture,Table,1256,2,161.82
+235,2024-08-09,Michael,South,Technology,Headphones,3045,5,839.55
+236,2023-11-07,David,South,Office Supplies,Stapler,200,4,-20.0
+237,2023-11-14,Emily,West,Technology,Smartphone,17550,9,2296.58
+238,2024-01-15,John,East,Office Supplies,Stapler,132,3,47.49
+239,2023-04-24,John,West,Furniture,Desk,4077,9,443.73
+240,2023-12-19,Chandan,South,Furniture,Table,5010,10,323.97
+241,2024-06-19,Rahul,North,Furniture,Bookshelf,1784,2,148.35
+242,2024-01-28,Priya,West,Furniture,Table,1490,10,-149.0
+243,2023-08-29,Chandan,East,Technology,Monitor,2151,9,583.21
+244,2023-10-18,John,North,Office Supplies,Pen Set,198,6,91.4
+245,2023-09-01,Chandan,East,Technology,Monitor,7560,4,1233.03
+246,2023-05-09,Amit,West,Technology,Headphones,1926,3,388.83
+247,2024-05-26,Rahul,West,Office Supplies,Paper,34,2,-3.4
+248,2023-05-06,Amit,East,Furniture,Desk,3864,7,-386.4
+249,2023-01-28,Sneha,East,Technology,Smartphone,6150,6,1438.09
+250,2024-04-16,David,West,Office Supplies,Folder,72,3,25.62
+251,2023-05-08,Sarah,South,Office Supplies,Stapler,132,4,-13.2
+252,2024-08-26,John,South,Furniture,Sofa,4333,7,748.62
+253,2023-09-17,John,West,Furniture,Desk,1568,8,161.46
+254,2023-05-16,Emily,North,Furniture,Desk,1082,2,-108.2
+255,2023-09-05,Rahul,South,Technology,USB Hub,4254,3,-425.4
+256,2024-05-08,David,North,Technology,Headphones,1812,3,518.98
+257,2023-11-04,Sarah,East,Technology,Monitor,1075,5,260.54
+258,2023-07-28,Rahul,West,Office Supplies,Paper,78,3,37.22
+259,2024-07-14,Priya,West,Office Supplies,Paper,87,3,26.38
+260,2024-01-10,Priya,West,Technology,Headphones,4214,7,618.9
+261,2024-05-21,Michael,North,Office Supplies,Stapler,470,10,178.42
+262,2023-07-31,Rahul,South,Technology,Headphones,554,1,164.88
+263,2024-05-28,David,North,Office Supplies,Pen Set,104,8,32.18
+264,2023-12-12,John,North,Technology,USB Hub,11354,7,1490.39
+265,2024-08-08,Rahul,West,Furniture,Desk,223,1,21.96
+266,2023-07-21,Chandan,South,Technology,Smartphone,3510,9,540.76
+267,2023-06-17,Sarah,West,Office Supplies,Pen Set,450,9,224.47
+268,2024-05-06,Priya,East,Technology,Headphones,13512,8,1545.88
+269,2024-11-06,David,South,Furniture,Desk,4380,6,695.11
+270,2023-05-05,John,West,Technology,Laptop,10560,8,2987.23
+271,2024-03-23,Rahul,North,Furniture,Table,1152,9,108.79
+272,2024-04-08,Sneha,North,Technology,Headphones,8910,9,2606.26
+273,2024-04-19,Sarah,West,Office Supplies,Stapler,33,3,11.41
+274,2024-11-12,Emily,North,Technology,Headphones,1306,1,-130.6
+275,2023-02-04,David,West,Furniture,Desk,3520,8,703.17
+276,2023-11-16,Priya,North,Furniture,Chair,5320,7,750.71
+277,2023-03-12,Chandan,East,Technology,Headphones,4521,3,723.58
+278,2024-05-09,Emily,East,Office Supplies,Pen Set,34,2,16.32
+279,2023-01-04,Rahul,South,Office Supplies,Pen Set,378,9,135.7
+280,2024-06-20,Priya,South,Technology,USB Hub,2244,3,349.13
+281,2024-04-10,Sarah,West,Office Supplies,Binder,132,6,65.27
+282,2024-08-27,Chandan,South,Office Supplies,Folder,42,1,13.97
+283,2024-11-23,Michael,East,Office Supplies,Binder,198,6,75.55
+284,2024-04-27,Emily,South,Furniture,Table,3105,9,467.1
+285,2023-10-28,Rahul,North,Office Supplies,Folder,320,8,99.75
+286,2023-10-09,John,West,Technology,USB Hub,8309,7,1673.51
+287,2024-10-19,David,South,Technology,Laptop,6144,6,1463.74
+288,2024-02-20,Amit,South,Furniture,Table,2304,4,423.26
+289,2023-12-26,Michael,West,Furniture,Table,1430,5,90.73
+290,2023-09-03,Priya,North,Furniture,Table,1954,2,144.74
+291,2023-09-16,Sarah,East,Furniture,Table,472,2,76.28
+292,2023-06-10,Michael,North,Office Supplies,Pen Set,450,9,-45.0
+293,2024-10-21,David,South,Technology,Smartphone,3360,10,630.45
+294,2024-08-19,John,West,Office Supplies,Stapler,90,3,41.22
+295,2024-09-01,Priya,West,Furniture,Bookshelf,362,1,25.4
+296,2023-09-12,Priya,South,Technology,Laptop,7209,9,-720.9
+297,2023-11-27,Michael,South,Technology,Smartphone,12200,8,3337.62
+298,2024-06-16,Priya,South,Technology,Headphones,2135,5,394.14
+299,2023-04-03,Michael,South,Office Supplies,Binder,360,10,123.21
+300,2023-07-18,Sneha,West,Office Supplies,Folder,322,7,126.22
+301,2024-03-25,Sarah,East,Technology,USB Hub,7400,10,2026.13
+302,2024-11-30,Michael,North,Office Supplies,Binder,430,10,166.71
+303,2024-02-14,Priya,East,Office Supplies,Binder,100,5,45.87
+304,2024-09-18,Sneha,East,Technology,Monitor,3900,10,1105.6
+305,2023-02-02,Emily,South,Technology,Smartphone,4398,3,985.11
+306,2024-08-13,Sarah,North,Technology,Monitor,7422,6,1532.98
+307,2023-06-14,Sneha,North,Office Supplies,Pen Set,204,6,79.77
+308,2024-02-09,David,West,Furniture,Desk,8580,10,1412.18
+309,2023-09-16,Sarah,South,Furniture,Chair,1695,5,217.61
+310,2024-06-07,Sneha,North,Technology,Laptop,3706,2,895.4
+311,2023-07-06,Chandan,West,Technology,Monitor,2998,2,893.76
+312,2023-06-18,Rahul,East,Technology,USB Hub,1674,1,295.01
+313,2023-08-10,Amit,West,Office Supplies,Binder,460,10,162.31
+314,2024-03-29,Chandan,South,Office Supplies,Pen Set,13,1,6.11
+315,2024-09-19,Priya,East,Furniture,Sofa,6965,7,1179.69
+316,2023-01-17,Rahul,North,Technology,USB Hub,750,3,104.9
+317,2023-03-27,Priya,West,Technology,Smartphone,3933,3,-393.3
+318,2024-07-14,Sarah,North,Technology,Headphones,3992,4,686.25
+319,2024-07-27,Emily,East,Office Supplies,Stapler,25,1,-2.5
+320,2023-09-11,Chandan,North,Office Supplies,Pen Set,329,7,134.0
+321,2023-02-15,David,South,Furniture,Bookshelf,4053,7,777.65
+322,2024-04-11,John,South,Furniture,Desk,816,2,148.45
+323,2023-06-06,Chandan,North,Technology,Monitor,6408,8,1625.45
+324,2023-08-30,John,East,Furniture,Sofa,1016,2,100.27
+325,2024-06-26,Michael,North,Furniture,Desk,8757,9,1116.26
+326,2024-06-07,Rahul,West,Furniture,Desk,4431,7,492.05
+327,2023-05-25,Sarah,North,Furniture,Bookshelf,4425,5,418.33
+328,2024-09-14,Michael,South,Technology,Smartphone,6224,4,937.17
+329,2023-10-20,Chandan,South,Technology,Smartphone,1000,5,285.93
+330,2024-05-08,David,North,Furniture,Chair,2562,3,296.61
+331,2023-02-21,Priya,West,Office Supplies,Stapler,26,1,13.0
+332,2023-04-27,David,West,Technology,USB Hub,11010,6,2497.82
+333,2024-02-27,Amit,South,Furniture,Desk,3100,10,-310.0
+334,2024-08-01,Priya,West,Furniture,Bookshelf,871,1,149.56
+335,2023-08-16,Amit,West,Furniture,Sofa,110,1,15.66
+336,2024-02-01,Sarah,South,Office Supplies,Binder,150,6,68.41
+337,2023-12-30,Emily,North,Furniture,Table,408,1,75.82
+338,2024-04-25,David,South,Furniture,Sofa,2680,5,-268.0
+339,2023-02-15,John,North,Technology,Smartphone,15290,10,-1529.0
+340,2023-08-27,Priya,West,Furniture,Desk,9610,10,1843.58
+341,2023-07-13,Rahul,North,Office Supplies,Binder,11,1,3.78
+342,2023-08-13,Michael,North,Furniture,Chair,1570,10,306.05
+343,2023-11-05,Rahul,North,Furniture,Table,7264,8,528.81
+344,2024-07-02,Sarah,North,Technology,Headphones,4505,5,769.24
+345,2024-11-26,Michael,North,Technology,Headphones,4110,3,745.69
+346,2023-10-24,Amit,South,Technology,Headphones,6116,4,1249.6
+347,2023-04-04,Priya,East,Technology,Laptop,4896,4,-489.6
+348,2023-09-19,David,East,Furniture,Desk,4515,7,-451.5
+349,2023-07-31,David,East,Furniture,Sofa,2975,7,552.95
+350,2023-06-20,Rahul,East,Technology,Laptop,10116,9,1653.46
+351,2023-06-27,David,West,Furniture,Bookshelf,5280,8,-528.0
+352,2023-06-16,Priya,East,Technology,Headphones,3941,7,941.11
+353,2023-06-14,Priya,West,Furniture,Sofa,5805,9,529.54
+354,2024-01-04,John,North,Technology,Laptop,1680,4,203.62
+355,2023-12-11,John,West,Office Supplies,Pen Set,96,8,39.8
+356,2024-03-25,Sneha,South,Office Supplies,Stapler,155,5,68.2
+357,2024-03-21,Rahul,South,Furniture,Desk,3224,4,515.38
+358,2024-04-10,Amit,North,Office Supplies,Pen Set,76,4,24.34
+359,2024-03-17,Amit,South,Furniture,Desk,4230,6,493.14
+360,2024-04-06,Chandan,West,Office Supplies,Paper,56,2,25.31
+361,2024-11-14,Sneha,South,Furniture,Table,3647,7,343.81
+362,2023-06-10,Priya,West,Office Supplies,Binder,22,1,7.4
+363,2023-03-25,Emily,South,Technology,Smartphone,4280,5,699.49
+364,2024-06-15,David,South,Office Supplies,Pen Set,150,5,52.45
+365,2024-02-19,Chandan,West,Technology,Smartphone,1731,3,479.98
+366,2024-08-20,Sneha,North,Office Supplies,Stapler,208,8,65.03
+367,2023-12-28,Priya,North,Technology,Headphones,11922,6,1412.43
+368,2023-10-16,Amit,South,Technology,Laptop,5999,7,639.0
+369,2023-04-12,Emily,West,Furniture,Chair,1040,4,207.68
+370,2023-09-26,Chandan,North,Office Supplies,Paper,207,9,79.42
+371,2023-07-24,Rahul,South,Technology,Monitor,1220,5,-122.0
+372,2023-04-01,Priya,North,Office Supplies,Pen Set,490,10,220.4
+373,2024-11-04,Amit,West,Office Supplies,Folder,272,8,-27.2
+374,2023-02-05,Amit,East,Technology,Laptop,5322,6,1307.95
+375,2023-07-26,Sarah,West,Technology,USB Hub,18180,10,5087.3
+376,2023-06-04,Sarah,North,Furniture,Chair,680,5,93.89
+377,2024-03-17,Chandan,North,Furniture,Chair,4750,10,646.22
+378,2024-02-24,David,West,Technology,Smartphone,7320,8,1412.74
+379,2024-05-08,Chandan,East,Technology,Smartphone,5475,5,1422.46
+380,2023-10-05,Sarah,North,Office Supplies,Binder,33,3,12.57
+381,2024-09-12,Sneha,South,Technology,USB Hub,1604,4,332.78
+382,2023-03-02,Michael,North,Technology,USB Hub,4617,3,576.65
+383,2023-08-28,Michael,South,Furniture,Table,917,1,169.31
+384,2024-01-10,Michael,West,Furniture,Table,1180,4,116.68
+385,2024-03-20,Rahul,South,Furniture,Desk,594,2,97.64
+386,2024-09-04,Michael,East,Furniture,Sofa,1263,3,70.88
+387,2023-10-01,Michael,North,Furniture,Sofa,4872,7,638.87
+388,2023-11-10,Sarah,East,Office Supplies,Folder,32,1,12.02
+389,2023-04-08,Sarah,East,Technology,USB Hub,13320,8,3706.85
+390,2023-09-24,Amit,South,Technology,USB Hub,808,4,216.04
+391,2024-07-11,Emily,West,Furniture,Table,5088,8,900.96
+392,2024-08-23,Emily,East,Furniture,Sofa,1064,4,211.43
+393,2024-04-05,David,East,Furniture,Chair,2880,4,533.07
+394,2024-03-15,Michael,East,Furniture,Sofa,761,1,64.22
+395,2023-12-28,Emily,West,Technology,USB Hub,577,1,-57.7
+396,2024-10-14,Amit,West,Office Supplies,Paper,208,8,77.94
+397,2023-12-30,David,West,Technology,USB Hub,2730,3,667.33
+398,2024-04-01,Priya,South,Furniture,Table,5936,8,1109.95
+399,2023-01-13,David,West,Furniture,Bookshelf,942,6,-94.2
+400,2023-02-15,Sarah,West,Office Supplies,Stapler,168,7,61.8
+401,2023-04-26,Emily,South,Technology,Laptop,3672,4,1056.62
+402,2024-02-08,Amit,North,Technology,Headphones,1268,1,-126.8
+403,2023-02-17,David,East,Furniture,Chair,1122,6,121.12
+404,2024-03-09,Michael,East,Technology,Laptop,13080,10,1555.32
+405,2023-11-02,Emily,East,Furniture,Desk,2685,3,390.15
+406,2023-09-22,Emily,South,Furniture,Bookshelf,8430,10,435.46
+407,2024-09-11,John,South,Furniture,Desk,5088,8,304.1
+408,2024-04-22,Michael,West,Furniture,Sofa,2028,3,367.73
+409,2024-11-03,Michael,North,Technology,Headphones,6232,4,1831.04
+410,2023-07-18,Sarah,North,Technology,Laptop,6435,5,1125.93
+411,2024-03-12,Sarah,West,Furniture,Table,1045,5,161.63
+412,2023-01-23,Michael,West,Technology,Headphones,5160,5,1080.39
+413,2024-09-07,Chandan,South,Technology,Headphones,3612,2,1069.04
+414,2024-10-08,Priya,East,Office Supplies,Stapler,44,1,16.69
+415,2024-10-15,Sarah,South,Furniture,Desk,5439,7,758.69
+416,2024-07-25,Sneha,East,Furniture,Chair,9800,10,664.55
+417,2024-02-22,Chandan,South,Technology,Headphones,9600,6,-960.0
+418,2024-06-12,Amit,West,Furniture,Sofa,4920,6,557.53
+419,2024-07-26,Chandan,West,Office Supplies,Stapler,88,4,42.5
+420,2023-01-23,Rahul,West,Technology,Headphones,10780,7,1528.04
+421,2023-09-22,Emily,East,Office Supplies,Pen Set,72,8,34.83
+422,2023-09-05,Priya,South,Office Supplies,Folder,198,6,65.6
+423,2023-08-16,David,West,Furniture,Sofa,955,5,146.13
+424,2024-09-05,Amit,South,Office Supplies,Stapler,120,3,-12.0
+425,2023-02-10,John,South,Furniture,Chair,4869,9,305.35
+426,2024-01-26,Michael,South,Furniture,Chair,7890,10,877.85
+427,2023-12-15,David,West,Office Supplies,Binder,180,4,66.87
+428,2023-06-14,Amit,South,Technology,USB Hub,5730,5,1365.93
+429,2024-03-23,Chandan,South,Technology,Smartphone,2240,5,253.6
+430,2024-06-25,Priya,South,Office Supplies,Pen Set,138,3,42.63
+431,2024-09-09,John,North,Office Supplies,Stapler,33,3,13.53
+432,2024-11-27,Emily,North,Furniture,Desk,1510,2,84.6
+433,2023-07-30,Sneha,North,Office Supplies,Binder,15,3,5.13
+434,2023-08-26,Sneha,East,Technology,Laptop,1942,1,425.51
+435,2023-02-21,John,West,Furniture,Chair,296,1,30.76
+436,2023-12-02,David,South,Furniture,Table,277,1,39.02
+437,2023-10-20,Emily,West,Furniture,Sofa,3924,4,436.77
+438,2024-08-20,Amit,East,Office Supplies,Pen Set,60,5,26.88
+439,2024-10-19,Emily,West,Furniture,Table,5117,7,305.52
+440,2023-11-06,Emily,East,Furniture,Desk,1544,2,148.1
+441,2023-06-06,Emily,South,Technology,Laptop,7380,9,926.28
+442,2023-04-05,Priya,West,Furniture,Sofa,1416,4,114.55
+443,2023-10-19,Amit,West,Technology,Laptop,2478,7,456.16
+444,2024-11-30,David,West,Furniture,Desk,2520,9,-252.0
+445,2024-04-03,John,East,Office Supplies,Folder,126,6,49.0
+446,2023-03-16,David,West,Technology,Smartphone,13320,10,2119.84
+447,2024-04-05,Amit,West,Furniture,Chair,762,6,114.46
+448,2024-08-01,Michael,North,Office Supplies,Paper,132,4,-13.2
+449,2024-06-14,David,North,Technology,Headphones,18650,10,4027.9
+450,2023-08-11,David,North,Furniture,Sofa,2530,10,215.65
+451,2024-09-06,Amit,South,Office Supplies,Binder,234,9,106.22
+452,2023-04-30,John,North,Technology,Laptop,3258,3,944.8
+453,2024-10-05,Michael,North,Furniture,Chair,1362,2,113.39
+454,2023-09-24,Sneha,West,Furniture,Chair,2193,3,313.74
+455,2024-05-15,Priya,North,Office Supplies,Stapler,290,10,141.17
+456,2023-02-07,Michael,East,Office Supplies,Paper,115,5,46.5
+457,2023-08-29,Amit,West,Technology,Headphones,12700,10,2267.68
+458,2023-11-29,Priya,South,Furniture,Sofa,352,1,64.62
+459,2024-07-20,Sneha,South,Technology,USB Hub,222,1,53.95
+460,2024-10-05,Rahul,West,Office Supplies,Binder,40,8,16.4
+461,2023-06-27,Michael,North,Furniture,Bookshelf,596,1,48.42
+462,2024-04-25,Sarah,South,Furniture,Table,1183,7,67.31
+463,2024-08-05,Amit,North,Office Supplies,Stapler,50,10,23.42
+464,2024-05-04,David,West,Furniture,Table,2682,9,489.51
+465,2023-04-09,Michael,South,Office Supplies,Pen Set,180,6,62.69
+466,2024-09-26,Sarah,North,Furniture,Bookshelf,1284,3,87.17
+467,2024-01-29,John,West,Furniture,Desk,3416,7,678.82
+468,2023-06-11,John,East,Technology,Smartphone,7256,4,1513.62
+469,2023-11-16,John,East,Office Supplies,Paper,135,3,42.93
+470,2024-01-28,Sneha,East,Office Supplies,Folder,75,5,-7.5
+471,2023-06-20,Priya,East,Furniture,Sofa,141,1,23.72
+472,2023-03-02,Rahul,West,Technology,Headphones,13496,7,2536.36
+473,2023-11-15,Michael,South,Furniture,Table,9280,10,1782.36
+474,2023-12-30,Rahul,North,Office Supplies,Paper,94,2,45.45
+475,2024-10-27,David,South,Office Supplies,Folder,74,2,35.68
+476,2024-04-14,Emily,West,Office Supplies,Folder,144,6,52.14
+477,2024-04-25,Chandan,East,Office Supplies,Stapler,30,2,9.51
+478,2023-10-20,Sneha,West,Technology,USB Hub,688,2,79.21
+479,2024-05-22,Sneha,North,Office Supplies,Folder,35,5,14.78
+480,2023-04-09,Sneha,South,Furniture,Desk,3987,9,-398.7
+481,2024-05-22,David,East,Office Supplies,Pen Set,189,7,-18.9
+482,2024-05-07,David,South,Furniture,Desk,3258,6,218.84
+483,2023-01-17,Emily,West,Furniture,Bookshelf,3710,7,548.87
+484,2023-01-16,Sarah,South,Office Supplies,Folder,49,7,22.14
+485,2023-12-05,John,North,Furniture,Chair,800,2,80.13
+486,2023-09-04,Rahul,East,Furniture,Chair,1308,4,102.83
+487,2023-11-15,Michael,North,Furniture,Bookshelf,795,3,135.99
+488,2024-01-11,John,South,Technology,Headphones,4338,3,1212.34
+489,2024-04-28,Rahul,East,Office Supplies,Stapler,294,7,104.38
+490,2024-10-28,Sneha,West,Furniture,Bookshelf,1680,8,248.23
+491,2023-11-29,Sarah,West,Office Supplies,Binder,450,9,180.66
+492,2023-02-02,Amit,West,Office Supplies,Binder,126,3,56.01
+493,2023-11-06,Emily,South,Office Supplies,Stapler,329,7,127.59
+494,2023-11-11,Emily,East,Technology,USB Hub,7065,9,1887.32
+495,2024-02-16,Michael,East,Office Supplies,Binder,80,8,33.59
+496,2024-08-31,David,South,Technology,Monitor,10199,7,1599.05
+497,2023-04-19,Rahul,South,Office Supplies,Binder,141,3,51.39
+498,2024-07-05,Emily,East,Technology,Laptop,1122,1,145.27
+499,2023-07-16,Priya,East,Office Supplies,Paper,125,5,49.15
+500,2023-12-13,Priya,East,Technology,Smartphone,4790,10,897.16
+501,2024-09-27,John,West,Office Supplies,Stapler,195,5,-19.5
+502,2024-07-06,Priya,South,Furniture,Bookshelf,5840,8,528.39
+503,2023-01-02,John,North,Office Supplies,Paper,92,2,28.91
+504,2024-11-22,Priya,West,Technology,Headphones,1222,1,362.59
+505,2024-11-12,Sarah,North,Furniture,Sofa,1680,6,254.53
+506,2023-12-23,Michael,East,Technology,Laptop,3940,5,714.24
+507,2023-03-15,Sarah,West,Technology,USB Hub,4731,3,-473.1
+508,2024-07-14,Amit,West,Office Supplies,Pen Set,192,4,59.63
+509,2023-09-13,Sneha,South,Furniture,Chair,1008,6,-100.8
+510,2023-02-20,Sneha,North,Technology,Laptop,3280,10,723.88
+511,2023-06-10,Priya,South,Technology,USB Hub,6327,9,834.15
+512,2024-05-11,Amit,West,Technology,Laptop,7428,4,876.53
+513,2023-09-09,Chandan,West,Office Supplies,Paper,119,7,52.49
+514,2023-11-27,John,South,Office Supplies,Paper,140,5,67.05
+515,2024-04-10,Michael,West,Technology,Laptop,13160,10,3619.83
+516,2023-06-16,Rahul,South,Technology,Monitor,2427,3,273.75
+517,2023-03-24,Sarah,North,Office Supplies,Stapler,150,6,52.9
+518,2024-06-23,Priya,West,Technology,Headphones,17980,10,2340.62
+519,2024-06-20,John,South,Technology,Smartphone,869,1,229.0
+520,2024-01-02,Michael,North,Office Supplies,Stapler,90,2,38.04
+521,2023-05-25,Amit,South,Furniture,Desk,2164,4,326.35
+522,2023-08-22,Sneha,North,Furniture,Bookshelf,3928,8,358.9
+523,2023-07-25,Rahul,West,Furniture,Table,2073,3,117.93
+524,2024-02-19,Chandan,South,Furniture,Sofa,6979,7,827.67
+525,2024-12-01,Rahul,North,Technology,Headphones,2706,2,731.15
+526,2023-06-26,Priya,West,Technology,Headphones,4680,9,600.33
+527,2023-11-23,Sneha,South,Office Supplies,Binder,56,8,-5.6
+528,2023-07-06,Priya,North,Office Supplies,Pen Set,182,7,67.48
+529,2023-04-07,Amit,South,Furniture,Desk,860,4,61.42
+530,2023-07-12,David,North,Technology,USB Hub,9051,7,2691.46
+531,2024-09-17,Rahul,East,Technology,Smartphone,5260,4,1348.68
+532,2023-04-02,Emily,West,Technology,Headphones,13968,9,2050.64
+533,2023-08-26,Sneha,North,Office Supplies,Folder,240,5,80.72
+534,2023-02-11,Chandan,West,Technology,Laptop,17020,10,1777.46
+535,2024-10-21,Priya,South,Technology,Headphones,265,1,53.18
+536,2024-03-21,David,West,Technology,Headphones,9944,8,1341.2
+537,2023-06-16,Priya,North,Furniture,Bookshelf,7272,9,535.89
+538,2023-02-28,Amit,West,Furniture,Desk,2601,3,440.68
+539,2024-11-27,Sneha,West,Office Supplies,Binder,19,1,7.32
+540,2023-10-03,Chandan,North,Technology,Monitor,14960,10,2086.86
+541,2024-02-17,David,East,Technology,Headphones,1072,2,148.72
+542,2024-01-31,David,East,Office Supplies,Pen Set,234,6,93.49
+543,2023-03-22,David,South,Office Supplies,Binder,245,7,86.96
+544,2023-02-10,Emily,South,Technology,Smartphone,633,1,-63.3
+545,2023-10-12,Chandan,South,Technology,Laptop,1306,1,277.72
+546,2023-05-31,Sarah,West,Furniture,Sofa,1264,2,93.01
+547,2024-01-13,Sarah,East,Technology,Monitor,5298,3,-529.8
+548,2023-12-07,Emily,East,Technology,Laptop,2760,6,607.32
+549,2024-05-11,Amit,North,Furniture,Desk,1088,4,215.09
+550,2023-04-13,Priya,West,Technology,Laptop,10143,9,1370.19
+551,2023-03-24,Amit,North,Technology,USB Hub,4542,6,761.05
+552,2024-03-22,Rahul,North,Technology,Laptop,7595,5,2227.48
+553,2024-04-13,Priya,North,Technology,Monitor,1796,4,195.64
+554,2024-05-15,Emily,North,Office Supplies,Folder,430,10,181.0
+555,2023-04-17,David,West,Technology,Headphones,3620,4,644.15
+556,2023-02-04,Sneha,North,Office Supplies,Binder,39,1,18.84
+557,2024-06-18,Sneha,West,Technology,Headphones,4485,5,776.04
+558,2023-01-22,Chandan,West,Furniture,Bookshelf,5740,10,783.32
+559,2023-07-12,John,East,Office Supplies,Binder,148,4,69.59
+560,2024-07-27,Emily,North,Technology,Headphones,5535,5,592.37
+561,2024-09-29,Emily,North,Office Supplies,Stapler,480,10,234.0
+562,2023-05-28,Rahul,West,Technology,Headphones,9410,5,2594.61
+563,2024-02-24,Sneha,North,Office Supplies,Paper,140,5,68.05
+564,2024-10-16,Rahul,South,Technology,Headphones,8022,6,1496.65
+565,2024-01-19,Sneha,West,Technology,Monitor,5754,3,1475.28
+566,2024-09-27,David,North,Furniture,Sofa,1813,7,336.35
+567,2023-07-31,David,West,Technology,Smartphone,7014,7,1887.6
+568,2024-01-04,John,East,Furniture,Sofa,6412,7,475.22
+569,2023-02-07,John,West,Technology,Headphones,6290,5,1479.1
+570,2023-04-18,Rahul,East,Furniture,Desk,6881,7,1082.4
+571,2023-07-14,Chandan,West,Technology,Monitor,2832,4,-283.2
+572,2023-12-27,Sneha,North,Furniture,Desk,786,1,146.32
+573,2023-08-19,Sneha,North,Furniture,Desk,903,7,-90.3
+574,2023-08-24,Sneha,East,Technology,Monitor,6756,4,1429.4
+575,2023-10-19,Amit,West,Technology,Monitor,7320,10,1525.61
+576,2023-01-23,Amit,East,Furniture,Chair,321,3,46.33
+577,2024-08-29,Chandan,West,Office Supplies,Binder,119,7,48.5
+578,2024-09-17,Amit,East,Office Supplies,Binder,170,5,73.58
+579,2024-09-02,Sneha,South,Furniture,Sofa,4540,5,333.99
+580,2024-07-06,Amit,South,Technology,Laptop,8802,6,2439.04
+581,2023-04-24,Emily,West,Furniture,Bookshelf,1510,10,-151.0
+582,2023-02-09,David,North,Office Supplies,Paper,96,4,31.1
+583,2024-10-03,Michael,North,Office Supplies,Paper,126,9,58.09
+584,2024-09-08,Sneha,South,Technology,Laptop,11072,8,2983.06
+585,2023-09-22,Rahul,North,Furniture,Desk,3690,10,666.16
+586,2024-11-15,Rahul,East,Technology,Monitor,3176,4,657.57
+587,2023-08-26,Rahul,South,Furniture,Sofa,915,1,57.59
+588,2024-05-30,Sneha,East,Technology,Monitor,4092,4,689.75
+589,2024-05-18,David,West,Technology,Laptop,4998,7,678.93
+590,2024-06-30,Sneha,South,Furniture,Chair,1322,2,248.57
+591,2024-06-15,Sneha,East,Technology,Monitor,8964,6,2058.37
+592,2024-07-14,Sarah,West,Technology,Monitor,5360,5,817.8
+593,2024-01-13,Sarah,East,Office Supplies,Folder,46,2,17.79
+594,2023-09-12,Michael,East,Technology,Headphones,3780,10,1088.62
+595,2023-12-04,Michael,South,Technology,USB Hub,11980,10,2976.04
+596,2023-10-16,Emily,East,Furniture,Chair,570,1,111.86
+597,2023-11-29,David,North,Furniture,Table,3995,5,590.36
+598,2023-05-14,Amit,East,Furniture,Chair,3220,4,597.15
+599,2023-02-01,Rahul,North,Technology,Laptop,6340,5,865.54
+600,2023-08-19,John,South,Technology,USB Hub,2471,7,726.01
+601,2023-12-14,Michael,North,Furniture,Desk,1532,2,95.19
+602,2024-07-18,Sarah,East,Office Supplies,Pen Set,30,6,9.76
+603,2024-04-01,Rahul,South,Technology,Headphones,13531,7,2550.66
+604,2023-03-08,Emily,East,Office Supplies,Binder,273,7,101.63
+605,2024-09-15,David,North,Office Supplies,Binder,24,4,10.62
+606,2024-07-14,David,South,Furniture,Bookshelf,2199,3,141.52
+607,2023-10-29,Michael,North,Technology,Smartphone,2394,9,679.65
+608,2024-07-14,John,South,Office Supplies,Stapler,250,10,102.77
+609,2024-01-02,Sarah,East,Furniture,Bookshelf,298,1,41.66
+610,2024-04-29,Amit,West,Furniture,Chair,6608,8,922.17
+611,2023-07-01,Rahul,West,Furniture,Table,2364,4,393.33
+612,2024-10-30,Michael,East,Office Supplies,Paper,205,5,83.15
+613,2024-01-30,Priya,North,Technology,Laptop,9760,8,2198.63
+614,2024-10-29,Rahul,East,Office Supplies,Binder,220,5,-22.0
+615,2023-08-30,Sneha,West,Office Supplies,Binder,168,6,71.34
+616,2024-04-12,Michael,North,Furniture,Bookshelf,4296,6,432.33
+617,2024-04-20,Sneha,South,Technology,Smartphone,11313,9,2781.25
+618,2023-12-17,John,East,Furniture,Chair,2220,6,274.41
+619,2023-10-01,John,North,Furniture,Sofa,1608,4,288.06
+620,2024-09-26,Michael,North,Furniture,Table,7560,8,749.47
+621,2023-04-07,Amit,West,Furniture,Bookshelf,952,7,54.55
+622,2024-03-23,Sneha,South,Office Supplies,Paper,192,8,74.82
+623,2024-09-11,Rahul,North,Furniture,Sofa,2816,8,-281.6
+624,2023-06-16,John,North,Technology,Smartphone,6380,4,664.39
+625,2023-10-25,Michael,North,Office Supplies,Stapler,48,8,16.04
+626,2024-08-01,Amit,West,Office Supplies,Binder,296,8,136.68
+627,2024-10-04,Emily,East,Office Supplies,Folder,120,3,36.26
+628,2024-04-02,Rahul,South,Furniture,Chair,1356,4,154.62
+629,2024-05-11,Sarah,South,Furniture,Bookshelf,3210,5,398.47
+630,2023-09-30,Sarah,South,Office Supplies,Stapler,240,6,115.96
+631,2024-02-28,Sarah,West,Office Supplies,Folder,81,3,25.08
+632,2024-07-07,Priya,South,Technology,Smartphone,7616,8,1859.0
+633,2024-03-07,Chandan,West,Office Supplies,Stapler,85,5,33.44
+634,2024-01-17,Amit,South,Technology,USB Hub,1577,1,221.74
+635,2024-07-15,Amit,East,Furniture,Sofa,7800,8,1179.98
+636,2024-06-02,John,North,Office Supplies,Binder,198,9,85.37
+637,2024-11-27,Michael,South,Furniture,Bookshelf,4740,10,673.16
+638,2023-03-29,Chandan,West,Technology,Smartphone,3555,3,654.58
+639,2024-09-24,Chandan,East,Furniture,Sofa,810,1,63.27
+640,2024-06-16,Emily,East,Furniture,Table,1940,2,-194.0
+641,2023-09-19,Sarah,East,Office Supplies,Pen Set,30,2,9.7
+642,2024-06-07,Sarah,South,Technology,Smartphone,6990,5,868.2
+643,2023-01-07,Amit,West,Office Supplies,Stapler,51,3,21.56
+644,2024-06-27,Emily,South,Office Supplies,Folder,200,4,-20.0
+645,2024-07-13,Priya,West,Office Supplies,Folder,70,5,25.47
+646,2023-02-16,Amit,North,Technology,Monitor,5050,5,-505.0
+647,2023-07-08,Emily,East,Office Supplies,Folder,43,1,19.66
+648,2023-08-09,Sarah,South,Office Supplies,Pen Set,56,2,17.24
+649,2023-07-07,Amit,North,Technology,Smartphone,546,2,117.59
+650,2024-08-10,Emily,West,Furniture,Sofa,1906,2,101.23
+651,2024-01-26,Emily,North,Furniture,Chair,4750,10,752.69
+652,2024-02-01,Rahul,North,Furniture,Sofa,584,2,32.38
+653,2023-12-17,Emily,South,Technology,Headphones,2373,7,470.45
+654,2024-06-18,Sneha,East,Office Supplies,Folder,99,9,32.21
+655,2023-01-09,Emily,South,Furniture,Desk,3276,7,391.46
+656,2023-06-21,Sneha,East,Office Supplies,Binder,324,9,136.03
+657,2024-02-09,Rahul,North,Office Supplies,Folder,48,3,-4.8
+658,2024-01-06,Amit,North,Furniture,Table,1512,7,187.02
+659,2024-08-25,Sneha,East,Office Supplies,Folder,168,4,69.43
+660,2023-10-22,Emily,South,Technology,Headphones,6858,9,1794.59
+661,2023-07-27,Amit,West,Technology,USB Hub,6951,7,1385.2
+662,2023-05-19,Sarah,South,Furniture,Sofa,9520,10,572.54
+663,2024-03-04,Priya,West,Office Supplies,Binder,85,5,39.96
+664,2024-10-26,Sarah,West,Technology,USB Hub,10359,9,1540.31
+665,2024-09-06,Emily,West,Furniture,Table,6440,8,877.66
+666,2023-04-26,Sneha,West,Technology,Smartphone,16569,9,4177.31
+667,2023-10-08,Priya,North,Office Supplies,Folder,34,2,-3.4
+668,2023-11-10,Rahul,South,Office Supplies,Stapler,117,9,45.8
+669,2024-10-06,Emily,South,Technology,Monitor,15960,10,4140.28
+670,2024-08-14,Priya,South,Technology,USB Hub,3306,3,494.69
+671,2024-05-05,John,West,Technology,Monitor,3768,6,913.26
+672,2024-10-18,Sarah,North,Furniture,Desk,781,1,142.33
+673,2023-07-13,Emily,East,Furniture,Chair,4290,10,658.98
+674,2023-09-14,Sneha,North,Technology,Smartphone,7980,5,1336.39
+675,2023-12-10,Emily,South,Furniture,Sofa,3348,6,661.22
+676,2023-05-11,Rahul,East,Technology,Monitor,5193,3,1256.76
+677,2023-12-20,Emily,South,Technology,Headphones,1100,5,291.97
+678,2023-08-31,Rahul,North,Furniture,Table,2028,4,362.21
+679,2023-04-16,John,North,Furniture,Table,4270,7,465.03
+680,2023-04-25,Sneha,East,Furniture,Desk,3598,7,698.09
+681,2023-03-18,Chandan,North,Furniture,Sofa,848,2,-84.8
+682,2024-08-19,Sneha,West,Furniture,Chair,3580,5,693.81
+683,2023-09-20,Michael,North,Technology,Headphones,3162,6,518.27
+684,2024-04-07,Emily,East,Technology,Smartphone,2256,3,664.57
+685,2023-01-26,Rahul,North,Technology,Laptop,2836,2,689.98
+686,2024-02-09,Rahul,West,Technology,Smartphone,3584,7,667.1
+687,2023-07-26,John,East,Furniture,Bookshelf,2748,6,335.64
+688,2023-11-07,Amit,East,Technology,Laptop,3087,7,462.44
+689,2024-01-23,John,East,Office Supplies,Folder,144,9,-14.4
+690,2023-01-01,David,South,Furniture,Chair,5226,6,479.28
+691,2023-05-10,Rahul,North,Office Supplies,Pen Set,360,8,177.78
+692,2024-07-31,Michael,East,Furniture,Desk,2515,5,475.44
+693,2023-09-19,Emily,North,Technology,Monitor,1098,3,138.51
+694,2023-09-28,Michael,North,Furniture,Table,4180,5,547.63
+695,2023-11-29,Rahul,North,Technology,Monitor,5316,4,603.82
+696,2023-12-29,David,South,Technology,Laptop,1062,2,288.44
+697,2024-10-30,Rahul,West,Technology,Headphones,6672,6,-667.2
+698,2023-07-16,Michael,West,Office Supplies,Folder,94,2,28.88
+699,2024-06-13,Chandan,North,Office Supplies,Folder,90,9,36.78
+700,2023-12-04,John,East,Office Supplies,Paper,36,1,17.81
+701,2024-05-05,Priya,East,Office Supplies,Stapler,210,5,93.38
+702,2024-02-05,Sarah,East,Office Supplies,Folder,24,1,7.37
+703,2023-09-10,David,North,Furniture,Desk,1272,2,184.97
+704,2024-04-09,Sneha,West,Office Supplies,Stapler,90,9,37.92
+705,2023-09-11,Priya,North,Furniture,Bookshelf,1070,5,-107.0
+706,2023-05-18,Rahul,East,Technology,USB Hub,3006,6,446.89
+707,2023-12-28,Michael,West,Office Supplies,Paper,52,4,21.88
+708,2023-12-20,Sarah,East,Office Supplies,Pen Set,36,3,17.03
+709,2024-06-01,Emily,West,Technology,USB Hub,2536,2,731.87
+710,2024-09-23,Amit,East,Technology,Headphones,10400,10,1229.78
+711,2024-05-24,Rahul,North,Technology,Laptop,5698,7,-569.8
+712,2023-06-03,Amit,North,Furniture,Table,1228,2,238.99
+713,2023-12-15,Michael,West,Furniture,Desk,1755,3,313.11
+714,2024-10-04,David,East,Technology,Monitor,5976,4,-597.6
+715,2024-04-06,Sarah,West,Technology,USB Hub,5382,9,-538.2
+716,2023-11-12,Michael,North,Technology,Laptop,3420,5,501.21
+717,2024-03-26,David,East,Technology,USB Hub,5817,7,1508.55
+718,2024-06-29,Sneha,East,Technology,Headphones,2225,5,602.6
+719,2024-09-14,David,West,Technology,Laptop,17410,10,2071.83
+720,2024-03-29,Sneha,South,Furniture,Desk,1584,2,118.77
+721,2024-11-17,Sneha,South,Technology,Laptop,6552,9,943.17
+722,2023-05-24,David,North,Furniture,Bookshelf,500,2,39.73
+723,2024-06-26,David,North,Furniture,Desk,846,1,81.2
+724,2023-04-15,Chandan,West,Technology,USB Hub,10809,9,2070.25
+725,2024-06-19,Rahul,North,Furniture,Chair,498,2,50.41
+726,2024-03-18,Sarah,West,Furniture,Sofa,5978,7,583.78
+727,2023-01-09,Michael,West,Office Supplies,Binder,120,4,53.28
+728,2023-10-10,David,West,Technology,Smartphone,4392,9,941.72
+729,2023-10-21,Amit,West,Technology,Monitor,4992,3,632.04
+730,2023-09-18,Chandan,North,Office Supplies,Pen Set,44,4,19.58
+731,2024-01-06,Amit,South,Furniture,Sofa,1238,2,138.67
+732,2023-12-29,Emily,South,Furniture,Table,4869,9,646.9
+733,2024-10-04,Sarah,North,Furniture,Bookshelf,4016,8,271.83
+734,2024-02-26,John,South,Office Supplies,Paper,150,10,46.93
+735,2024-09-10,Emily,East,Technology,Smartphone,1218,6,168.67
+736,2024-03-15,Michael,South,Technology,USB Hub,1345,1,376.45
+737,2024-05-08,Sarah,North,Office Supplies,Folder,55,5,20.22
+738,2023-07-06,Priya,East,Technology,Monitor,8715,7,1995.08
+739,2024-09-02,Amit,South,Office Supplies,Stapler,264,8,88.99
+740,2024-04-04,Priya,North,Technology,Laptop,8204,7,1907.12
+741,2024-12-01,Rahul,North,Technology,Monitor,11718,9,2841.96
+742,2024-02-01,Rahul,West,Office Supplies,Folder,87,3,37.35
+743,2024-10-20,Michael,North,Office Supplies,Pen Set,16,2,6.57
+744,2024-01-16,Sarah,South,Furniture,Sofa,2040,5,254.42
+745,2023-11-05,Sneha,West,Technology,Monitor,13080,10,3768.3
+746,2024-11-07,Sneha,East,Technology,Smartphone,690,1,77.8
+747,2024-06-24,Rahul,East,Technology,USB Hub,3000,8,683.62
+748,2024-03-08,David,West,Furniture,Chair,594,3,-59.4
+749,2023-08-25,Sarah,East,Technology,Monitor,1834,2,202.25
+750,2024-07-18,Emily,West,Furniture,Desk,2568,6,147.59
+751,2023-12-30,Sneha,South,Office Supplies,Paper,5,1,-0.5
+752,2023-01-08,David,North,Office Supplies,Folder,21,1,-2.1
+753,2023-11-28,Amit,South,Furniture,Chair,5232,8,824.54
+754,2023-07-04,Chandan,North,Technology,USB Hub,8508,6,2365.32
+755,2024-02-11,Sarah,East,Technology,USB Hub,8035,5,-803.5
+756,2024-06-09,John,South,Technology,Smartphone,702,1,100.2
+757,2023-07-04,Rahul,East,Technology,Headphones,11010,10,2712.22
+758,2023-08-19,Sneha,North,Office Supplies,Paper,88,2,35.09
+759,2024-11-16,David,West,Office Supplies,Paper,432,9,189.5
+760,2023-06-30,David,North,Furniture,Bookshelf,7320,8,443.37
+761,2023-08-06,Rahul,West,Office Supplies,Folder,220,5,85.66
+762,2023-02-07,Chandan,South,Furniture,Desk,781,1,108.71
+763,2024-05-30,Rahul,South,Technology,Headphones,7756,7,960.39
+764,2023-02-21,Chandan,West,Technology,Smartphone,10572,6,2368.38
+765,2023-08-16,Rahul,East,Office Supplies,Paper,78,6,36.57
+766,2024-08-30,Rahul,South,Technology,Headphones,12360,8,2863.15
+767,2024-03-21,Rahul,South,Technology,USB Hub,1410,1,242.59
+768,2024-06-21,Rahul,North,Technology,Monitor,1164,4,336.91
+769,2024-02-02,Rahul,North,Office Supplies,Stapler,276,6,123.36
+770,2024-03-04,Sarah,North,Technology,Laptop,675,1,172.86
+771,2023-07-16,John,East,Technology,USB Hub,3258,2,442.31
+772,2024-02-04,Amit,North,Furniture,Desk,1832,8,296.86
+773,2024-09-29,Chandan,East,Furniture,Bookshelf,2790,3,216.93
+774,2023-09-25,John,East,Technology,Smartphone,6516,4,666.52
+775,2024-05-17,Emily,South,Technology,USB Hub,1470,7,-147.0
+776,2023-12-26,David,East,Technology,Laptop,8085,7,2080.73
+777,2024-04-11,Priya,West,Furniture,Desk,1932,4,212.5
+778,2024-06-12,Sarah,West,Office Supplies,Folder,60,2,22.77
+779,2024-11-27,Priya,East,Furniture,Sofa,2465,5,183.14
+780,2024-10-08,Sneha,West,Office Supplies,Pen Set,104,8,-10.4
+781,2024-07-27,Sarah,South,Office Supplies,Folder,190,5,82.23
+782,2024-01-15,Chandan,West,Office Supplies,Paper,56,4,-5.6
+783,2024-03-12,Sarah,West,Furniture,Chair,7839,9,413.58
+784,2023-01-07,Amit,East,Technology,Laptop,3306,3,990.68
+785,2024-01-25,Sneha,North,Furniture,Chair,968,1,123.9
+786,2024-08-19,Michael,South,Furniture,Table,2324,4,356.24
+787,2024-11-15,Priya,North,Office Supplies,Stapler,102,3,33.12
+788,2024-02-18,Amit,West,Technology,Monitor,10941,7,1524.12
+789,2024-08-07,Chandan,West,Office Supplies,Pen Set,6,1,2.31
+790,2023-12-23,Emily,North,Technology,Headphones,1499,1,287.14
+791,2024-05-30,John,North,Office Supplies,Paper,72,2,30.38
+792,2023-11-02,Amit,West,Office Supplies,Paper,224,7,68.84
+793,2024-08-22,Sneha,East,Furniture,Table,4970,7,608.17
+794,2023-10-22,David,West,Office Supplies,Folder,44,4,15.71
+795,2024-08-09,Michael,South,Office Supplies,Folder,50,1,23.72
+796,2024-06-08,Chandan,West,Furniture,Sofa,3024,6,-302.4
+797,2024-10-26,Sneha,East,Furniture,Desk,2920,10,480.51
+798,2023-11-15,John,West,Furniture,Desk,1260,5,210.72
+799,2024-09-07,Sneha,East,Technology,Smartphone,8512,7,2129.24
+800,2023-04-18,Chandan,North,Furniture,Sofa,4886,7,969.37
+801,2023-01-14,Sneha,West,Technology,Headphones,14112,9,3771.57
+802,2023-09-26,Sarah,North,Office Supplies,Pen Set,100,4,31.37
+803,2024-11-02,Emily,North,Technology,Headphones,297,1,41.28
+804,2024-03-22,Chandan,South,Furniture,Sofa,6517,7,567.84
+805,2023-01-01,Emily,West,Furniture,Bookshelf,2667,7,526.66
+806,2024-09-14,Sneha,North,Technology,USB Hub,18880,10,4714.19
+807,2024-11-13,Priya,East,Furniture,Table,3225,5,-322.5
+808,2023-08-16,Chandan,East,Technology,USB Hub,5109,3,-510.9
+809,2023-06-07,Emily,West,Technology,Smartphone,9960,6,2851.53
+810,2024-10-28,Rahul,South,Technology,Smartphone,2775,5,280.74
+811,2023-06-30,Sarah,South,Technology,USB Hub,3843,3,592.5
+812,2024-03-04,Rahul,East,Technology,Headphones,9780,10,2559.64
+813,2023-04-01,Chandan,West,Technology,Headphones,1176,1,306.97
+814,2024-01-30,Rahul,South,Office Supplies,Binder,270,9,-27.0
+815,2024-09-26,Emily,West,Technology,Laptop,12920,8,1583.04
+816,2024-07-16,Emily,East,Office Supplies,Stapler,140,4,65.68
+817,2024-08-17,Sneha,South,Furniture,Table,599,1,48.85
+818,2024-02-26,David,East,Office Supplies,Binder,136,4,50.36
+819,2024-08-10,Amit,East,Office Supplies,Binder,24,3,9.83
+820,2023-10-26,Emily,East,Furniture,Desk,1060,5,205.04
+821,2024-06-14,David,West,Furniture,Table,4590,6,606.56
+822,2024-09-21,Rahul,North,Furniture,Desk,4039,7,215.36
+823,2024-03-25,John,South,Furniture,Desk,1818,3,214.35
+824,2024-07-11,Rahul,South,Furniture,Chair,5400,10,791.77
+825,2024-05-20,David,North,Office Supplies,Paper,144,9,-14.4
+826,2023-03-11,Sneha,East,Furniture,Sofa,2448,4,123.8
+827,2024-01-07,Priya,South,Furniture,Table,5958,6,489.54
+828,2023-04-08,John,North,Technology,Monitor,6864,4,1724.92
+829,2023-05-27,Amit,South,Furniture,Table,3170,5,-317.0
+830,2023-03-29,John,North,Office Supplies,Pen Set,245,5,75.89
+831,2023-01-25,John,South,Technology,Headphones,5358,6,833.34
+832,2024-05-02,Priya,East,Office Supplies,Stapler,140,10,58.72
+833,2024-07-15,Michael,South,Furniture,Table,4788,6,824.61
+834,2023-10-05,Sarah,West,Furniture,Desk,2859,3,207.97
+835,2023-04-20,John,West,Office Supplies,Paper,210,7,90.82
+836,2023-08-10,Priya,East,Office Supplies,Stapler,126,9,48.85
+837,2024-02-08,John,East,Office Supplies,Stapler,165,5,75.47
+838,2023-05-09,John,West,Office Supplies,Pen Set,44,4,18.8
+839,2024-03-05,Rahul,North,Technology,Laptop,10506,6,1114.31
+840,2024-04-24,Michael,North,Furniture,Bookshelf,843,1,57.05
+841,2024-03-14,David,East,Furniture,Bookshelf,2406,3,303.93
+842,2023-06-26,Emily,West,Furniture,Table,2226,7,280.05
+843,2024-09-29,Emily,South,Office Supplies,Pen Set,84,7,31.68
+844,2023-01-25,John,East,Office Supplies,Folder,192,8,83.09
+845,2024-11-23,Sarah,North,Office Supplies,Pen Set,108,9,48.02
+846,2024-06-30,Emily,North,Technology,Headphones,9536,8,1474.94
+847,2024-06-18,John,East,Furniture,Chair,3548,4,299.87
+848,2024-06-11,Emily,North,Office Supplies,Pen Set,235,5,106.61
+849,2023-11-26,Amit,West,Technology,Smartphone,7320,8,1759.95
+850,2023-10-07,Sneha,East,Furniture,Sofa,7328,8,1273.48
+851,2023-04-19,Michael,North,Office Supplies,Binder,81,9,33.16
+852,2023-05-02,David,West,Furniture,Sofa,2802,6,431.59
+853,2024-10-09,David,North,Technology,USB Hub,1156,4,125.3
+854,2023-12-27,Chandan,North,Furniture,Chair,969,3,82.29
+855,2023-05-29,Emily,South,Furniture,Sofa,2680,5,492.28
+856,2024-01-29,Sneha,West,Technology,USB Hub,2700,5,-270.0
+857,2023-01-30,David,West,Office Supplies,Binder,210,10,102.51
+858,2024-10-29,Priya,East,Technology,Headphones,1948,2,-194.8
+859,2023-02-04,Sneha,North,Technology,Laptop,1131,1,278.37
+860,2024-11-24,John,West,Technology,Smartphone,959,1,249.8
+861,2023-05-15,John,North,Office Supplies,Binder,88,4,31.21
+862,2024-10-14,Amit,South,Furniture,Desk,7860,10,1266.26
+863,2023-07-04,Rahul,East,Office Supplies,Stapler,120,6,50.98
+864,2024-11-30,Chandan,North,Office Supplies,Binder,6,1,2.0
+865,2024-08-06,Sneha,North,Technology,Laptop,10906,7,2139.11
+866,2023-08-24,Sarah,West,Office Supplies,Paper,28,2,13.35
+867,2023-12-04,Chandan,South,Furniture,Bookshelf,171,1,31.93
+868,2024-09-16,Amit,South,Office Supplies,Stapler,130,10,55.7
+869,2023-05-29,Sarah,North,Furniture,Sofa,1612,2,194.21
+870,2023-04-09,Chandan,North,Office Supplies,Binder,49,1,-4.9
+871,2023-01-07,Chandan,West,Furniture,Chair,1167,3,105.02
+872,2023-11-02,Rahul,East,Office Supplies,Binder,48,4,14.5
+873,2023-12-26,Michael,East,Technology,USB Hub,8800,5,1310.95
+874,2023-10-19,Sarah,East,Furniture,Chair,5352,8,-535.2
+875,2023-12-27,Priya,South,Office Supplies,Binder,88,2,34.8
+876,2024-02-20,Sneha,East,Furniture,Desk,999,3,61.13
+877,2023-02-06,Chandan,North,Office Supplies,Binder,168,6,58.48
+878,2024-05-29,David,West,Technology,Monitor,4011,7,1091.88
+879,2023-10-08,John,North,Technology,USB Hub,6162,6,1576.78
+880,2024-08-24,John,East,Office Supplies,Folder,204,6,81.97
+881,2023-08-03,John,South,Office Supplies,Stapler,26,2,8.1
+882,2023-10-26,David,East,Office Supplies,Binder,190,5,80.51
+883,2023-12-30,David,South,Furniture,Chair,3409,7,399.87
+884,2023-03-17,Amit,East,Furniture,Desk,2750,10,414.13
+885,2024-05-18,Sneha,West,Office Supplies,Pen Set,48,6,20.93
+886,2024-08-17,Amit,East,Furniture,Bookshelf,8080,10,919.71
+887,2023-06-04,Rahul,West,Office Supplies,Stapler,38,2,13.03
+888,2023-04-11,David,North,Office Supplies,Binder,15,3,7.14
+889,2023-04-26,Rahul,South,Office Supplies,Paper,90,10,29.56
+890,2024-09-13,Sneha,South,Furniture,Desk,5810,10,879.15
+891,2023-06-11,Sarah,South,Furniture,Chair,277,1,29.8
+892,2024-08-19,Sneha,East,Furniture,Table,3978,9,-397.8
+893,2023-10-26,Emily,East,Office Supplies,Folder,26,1,-2.6
+894,2023-01-13,John,West,Office Supplies,Pen Set,245,7,82.04
+895,2024-11-07,Emily,West,Office Supplies,Pen Set,180,9,86.21
+896,2024-07-16,Michael,South,Technology,USB Hub,2214,2,259.56
+897,2023-01-11,Emily,West,Technology,Headphones,2662,2,653.63
+898,2024-06-16,Priya,North,Office Supplies,Folder,266,7,82.61
+899,2023-09-22,David,North,Furniture,Sofa,1844,4,-184.4
+900,2023-10-28,David,West,Office Supplies,Binder,165,5,64.61
+901,2024-08-07,Chandan,East,Office Supplies,Folder,27,1,10.03
+902,2023-02-08,Sarah,West,Furniture,Chair,5271,7,987.84
+903,2024-09-30,Sarah,West,Furniture,Sofa,850,5,76.06
+904,2024-11-21,Rahul,North,Technology,Smartphone,1508,4,-150.8
+905,2023-05-02,Sneha,East,Technology,Laptop,3674,2,723.94
+906,2024-08-18,Amit,East,Office Supplies,Folder,136,4,48.09
+907,2023-08-16,David,South,Furniture,Sofa,1143,9,94.55
+908,2023-01-11,David,South,Furniture,Chair,1800,9,205.27
+909,2024-07-30,Michael,East,Office Supplies,Stapler,60,6,27.7
+910,2024-05-11,Rahul,West,Furniture,Table,1032,6,119.57
+911,2023-11-29,Priya,East,Furniture,Desk,1428,6,-142.8
+912,2024-01-18,Amit,East,Office Supplies,Folder,120,8,41.13
+913,2023-03-28,Emily,East,Furniture,Bookshelf,2916,9,-291.6
+914,2024-04-12,Sneha,South,Furniture,Table,7326,9,607.17
+915,2024-03-04,Sarah,South,Technology,Laptop,12752,8,3375.14
+916,2023-06-05,Rahul,North,Office Supplies,Pen Set,30,3,13.34
+917,2023-11-17,Amit,South,Technology,USB Hub,1644,6,304.91
+918,2023-02-14,Rahul,East,Technology,USB Hub,5172,3,1350.08
+919,2023-07-22,Sarah,West,Office Supplies,Binder,34,2,15.06
+920,2024-04-08,Rahul,South,Furniture,Desk,400,2,65.33
+921,2024-10-01,Priya,South,Office Supplies,Stapler,78,2,26.99
+922,2023-07-05,John,West,Technology,Monitor,8484,6,1145.59
+923,2024-11-19,Amit,North,Office Supplies,Stapler,441,9,-44.1
+924,2023-12-31,Sarah,East,Technology,USB Hub,1943,1,527.72
+925,2023-01-22,Priya,North,Technology,Headphones,14288,8,3424.89
+926,2023-08-02,Rahul,East,Office Supplies,Folder,102,6,35.86
+927,2024-11-12,Amit,South,Office Supplies,Stapler,155,5,50.89
+928,2024-07-16,Chandan,North,Furniture,Chair,4200,7,315.33
+929,2023-07-31,John,West,Technology,Monitor,6560,5,772.16
+930,2023-08-07,Amit,West,Technology,Smartphone,13816,8,2231.62
+931,2024-09-16,Sarah,South,Technology,Headphones,9720,8,2629.46
+932,2024-10-13,Michael,West,Furniture,Chair,3520,8,461.16
+933,2023-11-30,Amit,West,Office Supplies,Folder,153,9,52.17
+934,2023-03-21,Priya,West,Office Supplies,Paper,290,10,142.37
+935,2023-09-18,Chandan,West,Office Supplies,Binder,300,10,92.35
+936,2023-09-18,Michael,North,Technology,USB Hub,2028,3,308.51
+937,2023-01-27,Emily,West,Technology,Headphones,9426,6,1625.35
+938,2023-04-12,Amit,South,Office Supplies,Paper,330,10,-33.0
+939,2023-02-02,Priya,South,Furniture,Sofa,9370,10,638.07
+940,2024-04-25,Sneha,East,Technology,USB Hub,7195,5,1450.05
+941,2024-07-25,David,East,Furniture,Chair,3451,7,563.5
+942,2024-06-15,John,North,Furniture,Desk,137,1,22.9
+943,2023-06-11,Chandan,East,Office Supplies,Binder,43,1,17.51
+944,2023-03-14,Sarah,South,Furniture,Bookshelf,2460,4,166.08
+945,2024-11-30,Sneha,South,Office Supplies,Stapler,98,7,42.22
+946,2023-07-11,David,South,Technology,Headphones,2772,6,806.11
+947,2024-03-29,David,West,Office Supplies,Stapler,200,4,83.05
+948,2024-03-18,Amit,West,Furniture,Desk,7389,9,539.28
+949,2024-02-19,Sarah,North,Furniture,Sofa,1380,2,145.61
+950,2023-06-12,Sarah,East,Technology,Headphones,3550,5,872.31
+951,2024-10-03,Michael,West,Technology,Smartphone,11628,6,1498.13
+952,2023-03-03,Priya,South,Furniture,Table,1380,5,205.04
+953,2023-12-24,Sarah,North,Furniture,Bookshelf,3000,3,499.63
+954,2023-06-17,Sarah,East,Furniture,Sofa,6384,8,449.54
+955,2023-07-13,Sneha,East,Office Supplies,Pen Set,256,8,111.26
+956,2023-03-18,Sarah,South,Technology,Headphones,2097,3,423.8
+957,2023-10-20,Amit,West,Furniture,Bookshelf,1235,5,174.46
+958,2023-02-16,Amit,East,Technology,Headphones,6762,6,843.75
+959,2023-08-29,Priya,West,Furniture,Sofa,1316,4,204.23
+960,2024-09-15,Sneha,West,Technology,Laptop,8073,9,2252.16
+961,2023-05-28,Emily,North,Technology,Smartphone,17496,9,3462.27
+962,2023-06-15,Michael,East,Technology,Headphones,4038,6,582.92
+963,2023-09-18,Michael,West,Technology,Laptop,560,1,157.26
+964,2023-12-13,Sarah,South,Office Supplies,Binder,68,2,26.14
+965,2024-10-30,Michael,North,Office Supplies,Binder,9,1,4.3
+966,2024-10-02,Emily,East,Office Supplies,Binder,42,6,17.26
+967,2024-02-08,Sarah,West,Furniture,Desk,7624,8,452.52
+968,2024-07-09,Michael,East,Office Supplies,Binder,360,8,136.35
+969,2024-06-30,Chandan,South,Furniture,Chair,8280,10,1466.79
+970,2023-03-01,Michael,West,Technology,Headphones,5112,6,977.28
+971,2023-03-18,Chandan,East,Technology,Headphones,1170,5,229.6
+972,2023-08-22,Priya,East,Office Supplies,Binder,88,4,40.12
+973,2023-12-01,Sneha,North,Furniture,Table,2630,5,-263.0
+974,2023-06-30,Amit,South,Office Supplies,Pen Set,380,10,147.25
+975,2023-12-21,John,East,Furniture,Desk,3920,8,598.92
+976,2024-01-30,David,North,Furniture,Sofa,4704,7,899.15
+977,2024-08-22,Amit,West,Office Supplies,Folder,65,5,29.71
+978,2024-12-01,Chandan,North,Technology,USB Hub,6480,5,1199.39
+979,2024-12-01,Michael,West,Furniture,Chair,172,1,17.51
+980,2023-06-06,Chandan,West,Furniture,Sofa,4032,8,669.54
+981,2023-08-24,Michael,East,Technology,USB Hub,916,4,111.3
+982,2023-06-28,Sarah,North,Office Supplies,Binder,210,7,85.02
+983,2024-07-11,Emily,North,Office Supplies,Paper,207,9,100.26
+984,2023-04-18,Sneha,South,Technology,Smartphone,7304,4,825.19
+985,2024-07-02,John,South,Furniture,Desk,3976,4,604.56
+986,2024-05-16,John,West,Furniture,Chair,7020,9,504.92
+987,2024-05-24,John,South,Technology,Headphones,3808,2,799.82
+988,2024-03-06,Sneha,North,Technology,Smartphone,2705,5,306.6
+989,2024-01-05,Rahul,East,Furniture,Table,6100,10,972.43
+990,2023-10-25,John,East,Technology,Smartphone,2898,9,676.05
+991,2023-10-07,Emily,South,Office Supplies,Paper,414,9,195.28
+992,2024-09-07,Michael,South,Technology,USB Hub,3891,3,914.7
+993,2024-11-30,Michael,East,Office Supplies,Pen Set,224,8,71.64
+994,2023-07-29,Rahul,North,Technology,Smartphone,7430,5,1928.61
+995,2023-06-24,Priya,South,Office Supplies,Folder,39,3,15.96
+996,2024-09-25,Emily,West,Office Supplies,Folder,240,5,87.93
+997,2023-07-09,Sneha,East,Technology,USB Hub,4608,8,1029.47
+998,2024-09-06,Sarah,South,Technology,Smartphone,4168,4,922.12
+999,2023-09-06,Emily,South,Furniture,Bookshelf,3296,4,294.56
+1000,2023-06-11,Rahul,South,Furniture,Chair,5410,10,615.67
+1001,2024-04-22,Emily,East,Office Supplies,Binder,35,5,15.82
+1002,2023-03-01,Sarah,East,Furniture,Sofa,4123,7,419.36
+1003,2024-11-22,John,South,Furniture,Chair,4746,6,708.4
+1004,2023-12-24,Chandan,East,Furniture,Bookshelf,5000,5,787.96
+1005,2024-01-05,Priya,South,Technology,USB Hub,4432,8,446.06
+1006,2024-11-19,Priya,West,Technology,Monitor,5140,4,889.48
+1007,2024-08-18,Sneha,East,Technology,USB Hub,15056,8,3256.11
+1008,2023-09-20,Emily,West,Technology,Headphones,1136,4,266.38
+1009,2023-08-25,David,East,Office Supplies,Pen Set,36,1,15.05
+1010,2024-02-27,Emily,West,Furniture,Sofa,4904,8,311.79
+1011,2024-01-15,Sneha,North,Office Supplies,Folder,11,1,4.72
+1012,2023-07-01,David,West,Office Supplies,Binder,190,5,88.89
+1013,2024-01-05,Emily,East,Furniture,Desk,3031,7,180.24
+1014,2023-07-03,Sarah,South,Furniture,Chair,2004,6,163.84
+1015,2023-05-15,Priya,West,Furniture,Bookshelf,2372,4,324.75
+1016,2024-08-06,Chandan,South,Office Supplies,Folder,423,9,163.49
+1017,2024-09-25,Michael,East,Furniture,Chair,2870,10,451.93
+1018,2024-11-07,Priya,North,Furniture,Desk,904,8,46.71
+1019,2024-05-04,Priya,South,Furniture,Desk,7614,9,843.36
+1020,2023-07-10,Michael,South,Technology,Laptop,8400,5,1138.84
+1021,2023-03-13,David,North,Furniture,Desk,3234,7,414.87
+1022,2024-04-12,Sarah,North,Technology,Laptop,15432,8,3259.9
+1023,2023-05-09,Priya,South,Technology,Laptop,2704,2,466.88
+1024,2023-04-17,Rahul,North,Technology,Monitor,802,1,-80.2
+1025,2023-03-11,David,South,Furniture,Bookshelf,2555,5,400.07
+1026,2023-08-28,Michael,East,Technology,Smartphone,5560,10,647.02
+1027,2024-10-16,John,West,Technology,Laptop,1575,1,244.39
+1028,2024-04-18,Rahul,West,Office Supplies,Paper,104,8,31.3
+1029,2024-10-31,Priya,East,Technology,Headphones,3548,2,794.75
+1030,2023-04-22,David,East,Office Supplies,Binder,108,6,37.87
+1031,2023-08-13,John,South,Technology,Headphones,5208,3,775.95
+1032,2024-03-26,Sneha,East,Technology,Laptop,1245,3,367.46
+1033,2024-08-13,John,West,Office Supplies,Binder,48,8,23.65
+1034,2023-03-04,Sarah,East,Technology,Monitor,2160,10,440.18
+1035,2023-12-18,Amit,South,Furniture,Chair,112,1,11.46
+1036,2023-09-17,Michael,East,Furniture,Chair,3960,6,226.31
+1037,2024-06-21,Sarah,East,Office Supplies,Folder,180,4,58.09
+1038,2024-08-08,Sarah,East,Technology,Monitor,3872,8,978.61
+1039,2024-07-10,John,North,Office Supplies,Folder,328,8,162.63
+1040,2024-01-09,John,North,Office Supplies,Binder,66,6,26.25
+1041,2024-10-22,Rahul,South,Office Supplies,Paper,40,5,13.14
+1042,2024-05-03,Sarah,South,Technology,Monitor,2086,2,490.56
+1043,2024-09-10,Amit,East,Furniture,Chair,2403,9,324.03
+1044,2024-07-16,Priya,North,Furniture,Table,4704,7,-470.4
+1045,2024-04-13,Rahul,East,Furniture,Bookshelf,7520,8,663.2
+1046,2024-08-08,Chandan,North,Furniture,Sofa,3696,7,622.28
+1047,2024-08-14,John,South,Furniture,Desk,876,4,129.4
+1048,2023-09-21,Priya,North,Furniture,Bookshelf,4998,6,443.05
+1049,2024-08-24,Rahul,South,Furniture,Sofa,1726,2,146.18
+1050,2023-09-09,Michael,South,Office Supplies,Pen Set,390,10,193.41
+1051,2023-01-15,Chandan,West,Office Supplies,Folder,54,3,22.88
+1052,2024-06-12,Emily,West,Furniture,Desk,2639,7,-263.9
+1053,2024-11-28,Sarah,North,Technology,Monitor,15327,9,4119.93
+1054,2024-02-21,Sneha,North,Technology,Headphones,12144,8,1828.88
+1055,2024-11-16,Rahul,South,Office Supplies,Pen Set,32,2,13.31
+1056,2024-09-20,David,North,Office Supplies,Stapler,279,9,106.13
+1057,2024-04-28,Rahul,South,Office Supplies,Binder,140,10,44.52
+1058,2024-02-08,David,South,Furniture,Chair,7947,9,822.11
+1059,2023-07-07,David,East,Furniture,Table,6776,8,635.84
+1060,2024-04-28,John,East,Furniture,Sofa,1226,2,184.07
+1061,2023-12-24,John,South,Technology,Laptop,4792,4,1075.49
+1062,2024-05-03,Amit,North,Technology,Smartphone,11277,7,-1127.7
+1063,2023-03-30,Rahul,North,Technology,USB Hub,13937,7,3326.64
+1064,2023-07-01,Amit,North,Office Supplies,Folder,132,6,54.46
+1065,2024-03-26,Chandan,South,Office Supplies,Paper,60,4,23.27
+1066,2024-10-13,Sneha,East,Furniture,Sofa,930,2,169.88
+1067,2023-05-29,John,East,Office Supplies,Paper,160,10,62.82
+1068,2023-12-27,Chandan,West,Office Supplies,Stapler,12,2,3.91
+1069,2024-07-01,Emily,South,Office Supplies,Folder,405,9,170.45
+1070,2023-03-18,Priya,West,Office Supplies,Folder,54,2,20.49
+1071,2024-03-27,John,North,Office Supplies,Paper,240,8,115.22
+1072,2023-02-04,Amit,North,Office Supplies,Folder,370,10,119.12
+1073,2023-04-04,John,South,Furniture,Chair,518,1,83.06
+1074,2023-05-11,Amit,West,Technology,Headphones,2950,5,-295.0
+1075,2024-06-07,Amit,South,Technology,Laptop,8640,6,2434.54
+1076,2024-05-10,Michael,North,Furniture,Desk,905,1,131.84
+1077,2024-02-06,John,South,Office Supplies,Folder,48,6,-4.8
+1078,2024-03-14,Emily,East,Technology,Laptop,1181,1,131.39
+1079,2024-11-29,Chandan,North,Technology,Smartphone,2866,2,547.66
+1080,2023-07-10,Rahul,East,Office Supplies,Pen Set,13,1,5.19
+1081,2024-01-25,Sarah,North,Office Supplies,Paper,189,9,90.83
+1082,2023-02-13,Chandan,South,Furniture,Table,4230,10,-423.0
+1083,2024-04-27,Sneha,North,Office Supplies,Paper,10,1,4.9
+1084,2023-02-22,Sneha,North,Office Supplies,Stapler,294,6,138.15
+1085,2023-06-03,Emily,North,Office Supplies,Paper,156,4,62.57
+1086,2024-06-30,Priya,North,Furniture,Desk,2841,3,176.11
+1087,2023-06-28,John,West,Technology,Headphones,504,1,55.08
+1088,2023-05-13,Rahul,North,Furniture,Desk,2466,3,447.12
+1089,2023-06-10,Michael,West,Technology,Laptop,972,2,211.18
+1090,2024-03-13,Emily,South,Office Supplies,Binder,20,4,6.93
+1091,2024-06-11,David,East,Office Supplies,Folder,264,6,94.36
+1092,2023-07-03,John,North,Furniture,Chair,1335,3,231.15
+1093,2023-03-14,Sneha,North,Furniture,Chair,3899,7,775.93
+1094,2024-01-18,Amit,South,Technology,USB Hub,12720,10,-1272.0
+1095,2024-09-29,David,East,Office Supplies,Paper,217,7,103.57
+1096,2023-12-01,Emily,South,Technology,Laptop,9198,7,2037.36
+1097,2024-02-21,Rahul,North,Furniture,Bookshelf,224,2,24.12
+1098,2023-08-01,David,West,Technology,Headphones,16857,9,4442.88
+1099,2024-07-03,Michael,East,Furniture,Bookshelf,5634,6,605.95
+1100,2023-04-05,Priya,South,Technology,Smartphone,2208,8,649.56
+1101,2023-01-14,Sneha,West,Furniture,Chair,962,2,154.67
+1102,2024-05-13,John,South,Office Supplies,Binder,75,5,31.18
+1103,2024-01-03,Priya,West,Technology,Headphones,800,4,215.34
+1104,2024-01-16,Michael,South,Furniture,Chair,1506,2,197.46
+1105,2023-11-20,Sneha,West,Office Supplies,Folder,100,10,44.37
+1106,2024-01-29,Sneha,East,Technology,Smartphone,5016,8,1229.59
+1107,2023-03-13,Chandan,North,Furniture,Table,1740,4,336.21
+1108,2023-07-10,David,South,Furniture,Desk,1036,4,144.41
+1109,2024-03-22,Emily,North,Furniture,Sofa,4630,5,603.0
+1110,2024-06-05,Emily,West,Furniture,Bookshelf,4752,8,-475.2
+1111,2024-03-06,David,South,Furniture,Table,6748,7,884.36
+1112,2023-02-08,Chandan,East,Technology,USB Hub,921,1,-92.1
+1113,2023-12-01,Sneha,West,Furniture,Chair,1212,2,137.52
+1114,2024-04-02,Chandan,West,Furniture,Bookshelf,540,5,67.36
+1115,2024-10-10,Sarah,North,Furniture,Sofa,5960,10,391.21
+1116,2024-02-19,David,North,Technology,Headphones,916,4,188.85
+1117,2023-01-21,Rahul,West,Office Supplies,Paper,81,3,39.94
+1118,2024-04-25,Rahul,North,Office Supplies,Stapler,24,2,8.04
+1119,2023-03-21,Chandan,West,Technology,Monitor,12103,7,2899.6
+1120,2024-02-06,Chandan,West,Technology,Smartphone,5125,5,1351.64
+1121,2024-06-03,Sarah,South,Technology,Headphones,7308,6,-730.8
+1122,2023-10-25,Priya,East,Technology,Headphones,522,1,154.65
+1123,2024-11-11,Rahul,North,Furniture,Table,5330,10,482.84
+1124,2023-08-25,John,East,Office Supplies,Stapler,414,9,188.97
+1125,2023-10-24,Michael,West,Furniture,Bookshelf,7768,8,894.73
+1126,2024-02-27,Sarah,West,Technology,Laptop,7044,4,708.05
+1127,2023-10-08,John,East,Office Supplies,Pen Set,273,7,135.46
+1128,2024-05-26,David,West,Furniture,Table,342,3,33.86
+1129,2023-04-29,Sarah,North,Technology,USB Hub,10008,6,-1000.8
+1130,2023-11-11,Sneha,North,Furniture,Table,4340,7,725.18
+1131,2023-11-11,Michael,South,Technology,Monitor,400,2,92.06
+1132,2024-05-04,David,South,Office Supplies,Binder,26,2,11.03
+1133,2023-04-12,John,East,Technology,Laptop,2968,8,774.1
+1134,2024-11-19,Sarah,South,Technology,Smartphone,2050,5,282.52
+1135,2024-10-20,Amit,North,Office Supplies,Binder,96,3,32.52
+1136,2024-11-30,David,West,Furniture,Table,324,1,21.33
+1137,2024-01-18,Emily,East,Office Supplies,Paper,180,10,63.5
+1138,2023-06-30,Sneha,West,Furniture,Bookshelf,7824,8,1042.17
+1139,2023-06-22,Rahul,West,Office Supplies,Pen Set,330,10,111.99
+1140,2023-01-10,Emily,East,Technology,USB Hub,3090,5,917.95
+1141,2024-01-02,Michael,West,Furniture,Desk,2985,3,336.23
+1142,2023-07-01,Rahul,West,Furniture,Chair,3108,4,419.31
+1143,2024-08-13,Priya,East,Furniture,Table,569,1,88.86
+1144,2024-09-05,Chandan,North,Technology,Laptop,5824,7,736.14
+1145,2023-10-01,Sarah,South,Technology,Smartphone,1925,5,201.59
+1146,2024-04-08,John,North,Furniture,Sofa,1380,3,86.25
+1147,2023-11-01,Emily,North,Furniture,Sofa,7254,9,437.63
+1148,2024-11-25,Chandan,South,Office Supplies,Pen Set,140,4,-14.0
+1149,2024-04-24,David,South,Technology,Headphones,12000,10,2346.46
+1150,2024-01-30,Sneha,North,Office Supplies,Stapler,55,5,27.21
+1151,2024-09-17,Rahul,South,Furniture,Sofa,792,1,151.47
+1152,2023-03-06,Sarah,West,Technology,Smartphone,962,2,194.15
+1153,2023-07-22,David,West,Office Supplies,Paper,105,3,41.54
+1154,2024-01-10,John,South,Office Supplies,Pen Set,86,2,-8.6
+1155,2024-02-29,Sarah,South,Office Supplies,Stapler,252,6,107.28
+1156,2023-04-05,Emily,West,Furniture,Sofa,3444,7,226.28
+1157,2024-10-26,Michael,North,Furniture,Chair,3752,8,-375.2
+1158,2023-03-01,Emily,South,Technology,USB Hub,4025,5,1084.8
+1159,2024-05-03,Rahul,West,Technology,Smartphone,4460,4,488.96
+1160,2024-04-12,John,North,Furniture,Bookshelf,1396,2,78.85
+1161,2023-03-12,David,South,Technology,Headphones,15390,9,3249.31
+1162,2024-06-01,Michael,North,Office Supplies,Binder,168,6,74.63
+1163,2023-04-10,Michael,West,Office Supplies,Stapler,138,6,-13.8
+1164,2023-10-03,David,West,Technology,Smartphone,7220,4,1967.28
+1165,2023-05-26,John,East,Furniture,Bookshelf,6040,8,334.95
+1166,2023-12-01,Priya,South,Furniture,Bookshelf,3072,8,335.31
+1167,2024-10-22,Priya,North,Technology,Headphones,8510,5,1355.74
+1168,2023-03-11,David,South,Technology,Laptop,8860,5,1504.15
+1169,2024-03-29,John,East,Office Supplies,Paper,72,3,25.77
+1170,2023-10-23,Emily,South,Furniture,Table,1665,9,93.02
+1171,2023-11-30,Amit,South,Technology,USB Hub,9112,8,1067.84
+1172,2024-01-02,Rahul,East,Technology,Headphones,1352,1,232.93
+1173,2024-04-14,John,West,Office Supplies,Binder,155,5,74.83
+1174,2023-01-23,Sneha,West,Technology,Laptop,620,2,99.12
+1175,2023-04-15,Sneha,West,Technology,USB Hub,3789,9,787.32
+1176,2024-04-25,Priya,East,Office Supplies,Binder,145,5,58.34
+1177,2023-11-17,Emily,North,Office Supplies,Binder,90,6,-9.0
+1178,2023-12-17,Rahul,West,Technology,Laptop,3958,2,617.94
+1179,2023-05-03,Priya,East,Office Supplies,Binder,94,2,44.87
+1180,2023-04-23,Chandan,West,Technology,USB Hub,4215,5,804.3
+1181,2024-04-01,Chandan,East,Furniture,Chair,610,5,79.2
+1182,2023-10-16,Sneha,West,Technology,Monitor,1384,2,-138.4
+1183,2023-09-17,Michael,West,Technology,Headphones,683,1,119.4
+1184,2024-01-06,David,North,Furniture,Sofa,7592,8,981.18
+1185,2023-08-16,Michael,East,Furniture,Desk,2286,6,144.41
+1186,2023-07-04,Sneha,South,Furniture,Sofa,9070,10,474.3
+1187,2024-07-25,Sneha,East,Furniture,Table,506,1,91.24
+1188,2024-11-01,Sarah,West,Furniture,Bookshelf,4680,6,-468.0
+1189,2023-07-14,Sneha,South,Technology,Monitor,17352,9,-1735.2
+1190,2023-01-15,Amit,East,Office Supplies,Paper,111,3,41.77
+1191,2024-06-04,Emily,East,Furniture,Desk,1206,2,80.59
+1192,2023-01-29,John,West,Furniture,Desk,4824,9,831.29
+1193,2023-08-29,Michael,West,Office Supplies,Pen Set,132,3,-13.2
+1194,2023-10-05,Priya,West,Technology,Monitor,13086,9,3617.48
+1195,2024-11-17,Sarah,South,Office Supplies,Stapler,400,8,166.54
+1196,2024-06-25,Amit,West,Technology,Headphones,9660,6,2613.34
+1197,2024-05-31,David,North,Technology,Monitor,6410,5,-641.0
+1198,2024-07-23,Michael,West,Technology,Monitor,4125,5,1065.78
+1199,2023-11-08,Rahul,South,Technology,USB Hub,1435,5,187.01
+1200,2024-01-22,Michael,North,Office Supplies,Binder,6,1,2.76
+1201,2023-02-11,Sneha,West,Office Supplies,Pen Set,160,5,48.45
+1202,2023-09-28,Michael,North,Technology,Headphones,2800,8,589.19
+1203,2023-07-19,David,East,Office Supplies,Paper,200,5,98.93
+1204,2024-03-07,David,East,Technology,Smartphone,2280,3,615.34
+1205,2023-02-16,Michael,West,Office Supplies,Stapler,216,9,84.9
+1206,2024-05-18,Rahul,North,Furniture,Chair,714,6,40.15
+1207,2023-01-27,Amit,South,Furniture,Chair,564,4,40.62
+1208,2024-01-31,John,North,Office Supplies,Binder,42,7,14.74
+1209,2023-12-13,David,West,Office Supplies,Pen Set,14,1,6.13
+1210,2023-12-14,Sneha,West,Office Supplies,Folder,234,6,116.04
+1211,2023-12-13,Michael,East,Office Supplies,Stapler,90,6,31.7
+1212,2024-07-22,Rahul,North,Technology,Monitor,4170,6,1058.8
+1213,2023-05-28,Amit,West,Technology,Monitor,606,1,139.35
+1214,2024-11-04,Amit,West,Office Supplies,Binder,40,2,17.55
+1215,2023-06-23,Sneha,West,Technology,Headphones,8127,7,1399.13
+1216,2024-07-01,David,West,Furniture,Sofa,4845,5,950.46
+1217,2024-07-18,Sneha,North,Office Supplies,Pen Set,90,5,33.14
+1218,2023-08-25,John,West,Technology,USB Hub,905,1,174.22
+1219,2024-10-16,Amit,North,Furniture,Chair,1856,2,212.6
+1220,2023-11-10,Amit,West,Furniture,Bookshelf,5509,7,405.09
+1221,2024-02-27,Rahul,South,Furniture,Chair,4620,5,643.91
+1222,2023-05-01,Chandan,East,Office Supplies,Paper,115,5,56.84
+1223,2024-08-04,Emily,North,Furniture,Bookshelf,2388,6,262.52
+1224,2023-02-02,Amit,South,Office Supplies,Stapler,392,8,163.47
+1225,2024-06-10,Sarah,South,Technology,Headphones,1940,1,201.74
+1226,2023-03-26,Sarah,North,Furniture,Chair,3820,5,438.83
+1227,2024-01-31,Rahul,North,Technology,USB Hub,4112,4,504.5
+1228,2023-08-25,Chandan,North,Office Supplies,Pen Set,94,2,46.79
+1229,2023-04-02,David,West,Technology,Smartphone,2116,4,385.41
+1230,2024-09-23,Emily,West,Furniture,Table,1518,6,283.23
+1231,2023-12-16,Michael,North,Furniture,Chair,2898,7,533.99
+1232,2023-12-05,Emily,West,Technology,Smartphone,8870,10,1660.33
+1233,2023-03-07,John,West,Technology,Laptop,6440,7,1187.46
+1234,2023-03-06,Michael,North,Technology,Headphones,6325,5,1064.11
+1235,2024-11-13,Sarah,West,Furniture,Bookshelf,4806,6,520.45
+1236,2024-01-21,Amit,East,Office Supplies,Paper,78,2,30.94
+1237,2023-10-23,Sneha,West,Furniture,Bookshelf,512,4,71.88
+1238,2023-02-25,Michael,South,Office Supplies,Folder,25,1,9.82
+1239,2024-09-21,Sarah,North,Technology,Monitor,1102,1,258.98
+1240,2023-08-22,Sarah,East,Furniture,Chair,1535,5,194.29
+1241,2024-06-09,Chandan,East,Furniture,Sofa,1350,5,243.17
+1242,2023-02-05,Emily,North,Office Supplies,Binder,360,8,138.98
+1243,2024-07-30,David,East,Furniture,Bookshelf,5176,8,971.17
+1244,2023-10-17,Michael,West,Office Supplies,Paper,27,1,8.44
+1245,2024-02-21,Priya,South,Technology,Smartphone,4832,8,701.97
+1246,2023-12-27,David,East,Technology,Laptop,3002,2,344.21
+1247,2023-10-18,David,East,Furniture,Desk,1896,8,-189.6
+1248,2024-03-19,John,North,Furniture,Table,3708,9,407.6
+1249,2023-12-20,Sneha,East,Office Supplies,Pen Set,208,8,84.72
+1250,2023-05-11,Priya,South,Office Supplies,Folder,11,1,4.99
+1251,2024-06-12,Amit,East,Furniture,Chair,2895,3,232.54
+1252,2023-05-15,Priya,West,Technology,Headphones,1186,2,-118.6
+1253,2024-09-14,Michael,North,Furniture,Bookshelf,4650,10,359.52
+1254,2024-01-11,Emily,South,Office Supplies,Folder,224,7,105.83
+1255,2024-04-06,Sneha,North,Furniture,Desk,172,1,28.89
+1256,2023-01-09,Michael,East,Furniture,Chair,3951,9,480.54
+1257,2024-09-11,Rahul,West,Office Supplies,Binder,48,4,18.71
+1258,2023-01-28,Emily,East,Furniture,Table,8930,10,-893.0
+1259,2023-01-17,David,West,Technology,USB Hub,646,1,73.3
+1260,2024-03-17,Chandan,West,Office Supplies,Binder,74,2,22.32
+1261,2024-09-28,Chandan,West,Office Supplies,Paper,63,7,23.43
+1262,2023-10-05,Chandan,West,Furniture,Sofa,1256,2,219.78
+1263,2023-02-08,David,North,Furniture,Desk,3660,6,459.37
+1264,2024-05-26,Rahul,South,Furniture,Sofa,3894,6,684.25
+1265,2023-01-10,Emily,West,Technology,Laptop,9459,9,2751.46
+1266,2024-04-08,Emily,West,Office Supplies,Pen Set,36,3,17.32
+1267,2024-11-05,Priya,North,Technology,Monitor,2184,6,372.53
+1268,2024-01-19,Priya,North,Office Supplies,Pen Set,69,3,-6.9
+1269,2023-02-24,Sneha,West,Furniture,Chair,5984,8,337.31
+1270,2024-06-13,Sarah,West,Furniture,Sofa,7384,8,1391.27
+1271,2023-02-04,Rahul,West,Technology,USB Hub,1104,3,-110.4
+1272,2024-08-13,Amit,West,Furniture,Bookshelf,1540,10,206.72
+1273,2023-02-07,Michael,North,Technology,Smartphone,4468,4,1151.89
+1274,2023-10-23,Rahul,West,Office Supplies,Stapler,15,1,7.09
+1275,2023-10-22,Rahul,East,Furniture,Desk,1865,5,267.35
+1276,2023-02-28,David,South,Office Supplies,Pen Set,35,1,17.24
+1277,2023-09-18,Rahul,South,Office Supplies,Pen Set,216,6,92.17
+1278,2023-09-17,Michael,North,Technology,Smartphone,6875,5,1985.33
+1279,2023-12-15,Sarah,East,Furniture,Table,2961,7,-296.1
+1280,2024-05-27,Emily,South,Office Supplies,Stapler,380,10,187.87
+1281,2023-07-19,Amit,East,Office Supplies,Binder,234,6,71.88
+1282,2023-08-27,Michael,South,Furniture,Sofa,8550,10,1309.6
+1283,2024-06-23,Michael,North,Office Supplies,Folder,294,6,143.35
+1284,2023-08-29,David,West,Furniture,Sofa,1288,4,236.0
+1285,2024-03-10,Sneha,East,Office Supplies,Pen Set,290,10,111.63
+1286,2024-10-10,John,South,Office Supplies,Binder,30,1,14.71
+1287,2024-02-26,John,East,Office Supplies,Pen Set,240,10,104.25
+1288,2024-04-08,Sneha,West,Office Supplies,Pen Set,86,2,31.02
+1289,2024-08-08,Michael,West,Technology,Smartphone,1866,2,283.92
+1290,2024-10-05,John,East,Technology,Smartphone,3888,2,440.89
+1291,2023-12-03,David,North,Furniture,Table,2930,10,221.86
+1292,2024-04-01,Sneha,North,Office Supplies,Pen Set,360,10,160.6
+1293,2023-01-11,John,North,Office Supplies,Folder,114,3,35.74
+1294,2023-12-23,Sarah,East,Office Supplies,Pen Set,370,10,133.4
+1295,2024-09-02,David,East,Office Supplies,Binder,205,5,88.98
+1296,2023-08-04,Sneha,East,Technology,Smartphone,16281,9,4249.52
+1297,2024-07-27,Michael,East,Furniture,Table,3773,7,-377.3
+1298,2024-09-03,Priya,North,Office Supplies,Folder,102,6,49.03
+1299,2023-12-10,Priya,West,Furniture,Bookshelf,429,1,55.67
+1300,2023-01-26,Emily,West,Furniture,Chair,2372,4,161.73
+1301,2024-07-27,David,East,Furniture,Sofa,651,1,126.41
+1302,2023-09-29,Rahul,South,Office Supplies,Stapler,343,7,-34.3
+1303,2024-07-10,Sneha,West,Furniture,Table,1932,2,372.04
+1304,2024-05-03,Emily,West,Technology,Monitor,736,2,83.6
+1305,2024-07-07,Rahul,West,Furniture,Chair,7928,8,1564.17
+1306,2023-09-07,Amit,South,Technology,Smartphone,9888,6,2950.45
+1307,2024-07-06,Chandan,South,Technology,Monitor,8433,9,2248.99
+1308,2023-10-29,Rahul,East,Technology,Monitor,1680,2,319.79
+1309,2024-08-03,Priya,West,Technology,Monitor,1284,3,288.27
+1310,2024-11-18,Priya,West,Office Supplies,Pen Set,88,2,-8.8
+1311,2023-11-08,Rahul,South,Technology,Monitor,6858,6,811.85
+1312,2023-02-13,Michael,West,Furniture,Chair,329,1,56.69
+1313,2023-05-13,Rahul,North,Office Supplies,Pen Set,342,9,123.3
+1314,2023-07-08,Sneha,East,Technology,USB Hub,8470,7,1610.1
+1315,2024-08-08,Sneha,South,Office Supplies,Pen Set,141,3,53.24
+1316,2023-11-07,Michael,South,Office Supplies,Pen Set,24,1,11.06
+1317,2024-07-07,Rahul,West,Technology,Smartphone,9910,10,1772.44
+1318,2024-08-07,Priya,East,Technology,Laptop,891,3,126.04
+1319,2023-08-03,Emily,West,Technology,Laptop,4788,7,995.5
+1320,2023-09-23,John,North,Technology,Laptop,8310,10,2070.14
+1321,2023-05-11,Amit,North,Technology,Smartphone,8730,10,1511.81
+1322,2023-02-14,Chandan,North,Office Supplies,Paper,294,6,124.85
+1323,2023-04-17,Sarah,North,Technology,Headphones,2660,5,636.83
+1324,2023-07-12,John,West,Office Supplies,Pen Set,80,8,24.32
+1325,2023-03-13,Sneha,North,Technology,Laptop,3732,3,770.48
+1326,2023-01-11,Sarah,North,Technology,USB Hub,15867,9,3231.79
+1327,2024-09-05,John,North,Furniture,Desk,4648,8,585.12
+1328,2024-02-28,Amit,East,Office Supplies,Binder,160,4,69.93
+1329,2024-04-08,Chandan,South,Office Supplies,Pen Set,60,10,-6.0
+1330,2023-03-24,Rahul,West,Technology,Headphones,2043,3,546.01
+1331,2023-01-10,Amit,North,Furniture,Sofa,4210,5,347.22
+1332,2024-08-27,Chandan,North,Office Supplies,Stapler,18,3,6.94
+1333,2023-02-23,Rahul,North,Furniture,Chair,721,7,68.56
+1334,2024-10-05,Michael,West,Furniture,Bookshelf,3025,5,379.43
+1335,2024-01-27,Emily,East,Technology,Headphones,3717,3,844.02
+1336,2024-10-10,Amit,North,Furniture,Desk,4823,7,572.78
+1337,2024-11-21,Amit,East,Office Supplies,Folder,115,5,43.35
+1338,2023-07-28,Rahul,East,Technology,Monitor,2086,2,-208.6
+1339,2023-10-13,Sarah,South,Technology,Smartphone,345,1,77.94
+1340,2023-06-10,Rahul,South,Furniture,Chair,6712,8,479.75
+1341,2024-09-10,Rahul,East,Furniture,Chair,2996,4,355.35
+1342,2024-04-21,John,North,Furniture,Desk,980,7,180.65
+1343,2023-10-06,Michael,North,Office Supplies,Folder,111,3,52.22
+1344,2024-07-20,Sneha,South,Furniture,Bookshelf,3960,8,384.49
+1345,2024-11-22,Michael,North,Furniture,Table,9590,10,1234.42
+1346,2024-06-30,Sarah,East,Furniture,Desk,3120,5,170.06
+1347,2024-04-28,Rahul,West,Technology,Monitor,8687,7,1309.24
+1348,2023-04-18,Chandan,East,Furniture,Sofa,3590,10,603.97
+1349,2024-03-22,Michael,South,Technology,Headphones,2139,3,548.35
+1350,2023-02-11,David,West,Office Supplies,Pen Set,160,10,78.53
+1351,2024-08-31,Priya,East,Technology,USB Hub,2106,2,270.35
+1352,2024-08-30,Emily,South,Office Supplies,Binder,44,4,16.32
+1353,2023-01-16,David,West,Office Supplies,Folder,120,3,51.57
+1354,2024-09-24,Chandan,West,Technology,USB Hub,4167,3,1003.83
+1355,2023-03-15,Sneha,West,Office Supplies,Pen Set,125,5,45.15
+1356,2024-11-30,John,West,Office Supplies,Binder,33,1,14.99
+1357,2023-04-17,Chandan,East,Technology,Laptop,3489,3,1046.04
+1358,2024-11-07,John,South,Furniture,Bookshelf,2070,10,241.15
+1359,2023-04-20,Rahul,South,Furniture,Sofa,3198,6,551.95
+1360,2023-04-29,David,North,Furniture,Desk,3965,5,323.94
+1361,2023-10-01,Sarah,South,Furniture,Chair,3528,6,308.5
+1362,2024-06-18,Michael,South,Office Supplies,Pen Set,30,1,13.12
+1363,2024-03-04,Emily,East,Technology,Monitor,3686,2,1027.69
+1364,2024-11-15,Sneha,North,Furniture,Sofa,1800,9,283.58
+1365,2024-03-21,Sneha,South,Technology,Headphones,8454,6,1401.87
+1366,2023-07-15,Sarah,East,Technology,USB Hub,4164,4,614.86
+1367,2024-11-10,Sarah,West,Technology,Laptop,13552,8,1596.16
+1368,2024-11-25,David,North,Technology,Monitor,5440,4,718.66
+1369,2023-07-25,Priya,North,Furniture,Bookshelf,1410,10,200.56
+1370,2023-11-22,Chandan,South,Technology,Headphones,2684,4,563.74
+1371,2023-05-01,David,East,Furniture,Table,704,1,108.47
+1372,2024-02-18,Emily,North,Office Supplies,Pen Set,290,10,122.51
+1373,2023-06-24,Emily,South,Technology,Laptop,2316,3,293.52
+1374,2023-09-10,John,North,Furniture,Bookshelf,3695,5,275.29
+1375,2024-09-02,Sarah,West,Office Supplies,Binder,185,5,61.23
+1376,2023-09-07,Rahul,North,Technology,USB Hub,2979,3,742.92
+1377,2023-05-14,Amit,West,Office Supplies,Pen Set,48,1,19.41
+1378,2023-02-05,Emily,East,Furniture,Sofa,1280,5,191.13
+1379,2023-10-02,Michael,South,Technology,Monitor,3568,2,773.68
+1380,2023-04-29,Michael,East,Technology,Smartphone,4167,3,687.22
+1381,2024-07-15,Priya,North,Technology,Smartphone,15920,10,1844.72
+1382,2023-01-31,Rahul,South,Technology,USB Hub,5220,6,1175.35
+1383,2023-01-12,Michael,North,Furniture,Sofa,726,6,52.97
+1384,2024-06-11,Amit,West,Office Supplies,Folder,91,7,40.99
+1385,2023-04-20,Priya,North,Technology,Smartphone,1451,1,194.51
+1386,2023-07-19,Priya,East,Furniture,Chair,2110,5,224.73
+1387,2023-11-11,Priya,West,Technology,Headphones,1783,1,500.66
+1388,2024-02-11,Sneha,North,Furniture,Bookshelf,1562,2,100.7
+1389,2024-11-03,David,East,Technology,USB Hub,12195,9,2364.69
+1390,2023-01-10,Chandan,West,Office Supplies,Folder,156,4,65.29
+1391,2024-10-09,Rahul,East,Technology,Laptop,5866,7,649.2
+1392,2023-08-16,John,West,Furniture,Desk,978,3,155.37
+1393,2024-08-10,Sarah,South,Furniture,Table,1338,6,97.76
+1394,2023-11-29,Emily,South,Technology,Laptop,1398,3,216.7
+1395,2023-03-30,Emily,North,Furniture,Bookshelf,4842,6,-484.2
+1396,2023-08-12,Priya,West,Technology,USB Hub,6414,6,1119.37
+1397,2024-10-15,John,South,Office Supplies,Folder,38,1,14.76
+1398,2023-06-21,Amit,West,Furniture,Table,2886,3,273.06
+1399,2024-04-10,Amit,West,Furniture,Chair,600,6,50.17
+1400,2023-03-15,Chandan,North,Technology,Monitor,4668,4,588.64
+1401,2024-08-01,Sneha,North,Office Supplies,Binder,224,7,105.3
+1402,2023-07-24,Sarah,North,Technology,USB Hub,10590,10,1742.8
+1403,2024-02-19,Sneha,East,Technology,USB Hub,13741,7,4046.66
+1404,2023-02-08,Rahul,East,Technology,Smartphone,14200,10,3355.84
+1405,2023-03-07,Michael,West,Office Supplies,Paper,68,4,32.43
+1406,2024-02-01,Sarah,South,Technology,Headphones,10770,10,2700.22
+1407,2023-11-26,Rahul,West,Furniture,Desk,1000,2,-100.0
+1408,2023-01-17,Priya,North,Technology,Headphones,10935,9,3185.95
+1409,2023-08-01,Emily,East,Furniture,Bookshelf,2676,6,518.23
+1410,2023-01-09,David,North,Office Supplies,Stapler,410,10,164.74
+1411,2024-03-06,Chandan,East,Technology,Smartphone,8728,8,1695.89
+1412,2024-10-09,Amit,South,Office Supplies,Pen Set,105,7,44.91
+1413,2023-08-12,Sneha,East,Office Supplies,Paper,93,3,29.18
+1414,2024-03-26,John,East,Furniture,Table,3625,5,368.92
+1415,2024-11-27,Chandan,West,Office Supplies,Pen Set,36,1,15.87
+1416,2023-06-27,Priya,West,Furniture,Sofa,920,1,82.2
+1417,2024-04-20,Michael,North,Technology,Laptop,5176,8,866.33
+1418,2024-04-10,Priya,South,Technology,Laptop,3744,4,879.84
+1419,2023-08-24,Michael,West,Furniture,Sofa,1863,9,286.05
+1420,2023-06-15,Michael,East,Office Supplies,Stapler,190,5,77.17
+1421,2024-10-06,John,North,Office Supplies,Paper,94,2,42.35
+1422,2024-06-12,John,South,Office Supplies,Stapler,99,3,31.11
+1423,2023-11-16,Sneha,East,Furniture,Sofa,2745,3,430.74
+1424,2023-11-25,Priya,South,Office Supplies,Stapler,24,1,8.79
+1425,2024-09-02,Amit,South,Furniture,Sofa,3755,5,707.69
+1426,2023-01-31,Michael,East,Furniture,Bookshelf,2170,7,-217.0
+1427,2023-11-08,Sarah,East,Office Supplies,Binder,72,4,22.07
+1428,2024-02-20,Sarah,East,Technology,Laptop,4830,3,844.38
+1429,2024-04-26,Priya,South,Office Supplies,Pen Set,26,2,11.76
+1430,2023-07-20,Sarah,West,Office Supplies,Paper,240,8,112.01
+1431,2024-10-04,Chandan,West,Technology,USB Hub,7842,6,1810.7
+1432,2023-02-27,Michael,East,Technology,Monitor,4880,5,805.1
+1433,2023-07-31,Sarah,East,Technology,USB Hub,9819,9,1868.32
+1434,2024-10-18,Sneha,North,Technology,USB Hub,11394,9,1532.94
+1435,2023-08-04,Rahul,West,Furniture,Sofa,4753,7,904.34
+1436,2024-05-16,Chandan,West,Furniture,Chair,3272,4,567.56
+1437,2024-04-24,Emily,South,Furniture,Bookshelf,2148,4,427.53
+1438,2024-10-01,Michael,West,Furniture,Chair,432,1,77.43
+1439,2023-09-04,David,North,Technology,Headphones,6727,7,1407.2
+1440,2023-03-19,John,North,Office Supplies,Folder,60,4,29.54
+1441,2023-05-13,Priya,North,Technology,Monitor,3507,3,684.48
+1442,2024-03-02,Sneha,East,Furniture,Desk,4696,8,938.07
+1443,2023-01-20,Sneha,West,Furniture,Sofa,2850,3,380.85
+1444,2024-01-10,Priya,West,Technology,Laptop,4089,3,-408.9
+1445,2024-09-14,David,South,Furniture,Bookshelf,436,4,52.76
+1446,2023-05-29,John,West,Office Supplies,Paper,30,6,9.52
+1447,2024-11-08,Sarah,East,Technology,USB Hub,4220,10,1188.71
+1448,2023-11-06,Sneha,South,Technology,USB Hub,2695,7,643.55
+1449,2024-03-13,John,East,Technology,Laptop,450,1,87.92
+1450,2023-11-19,David,South,Furniture,Chair,1548,9,151.03
+1451,2024-05-05,Emily,South,Office Supplies,Stapler,160,4,76.48
+1452,2024-07-08,David,East,Technology,Monitor,1632,2,-163.2
+1453,2024-03-03,Michael,West,Technology,USB Hub,3705,3,-370.5
+1454,2023-05-02,Emily,South,Office Supplies,Binder,44,1,13.95
+1455,2023-09-09,Emily,West,Office Supplies,Pen Set,105,7,-10.5
+1456,2024-01-25,David,North,Technology,USB Hub,13304,8,1782.59
+1457,2023-02-16,Rahul,North,Technology,Smartphone,5289,3,1154.2
+1458,2024-02-20,Priya,East,Technology,Smartphone,6680,8,893.79
+1459,2023-03-05,John,North,Office Supplies,Pen Set,120,5,-12.0
+1460,2024-05-24,Priya,North,Technology,Monitor,1105,5,309.19
+1461,2023-04-28,Amit,East,Office Supplies,Folder,50,1,22.65
+1462,2023-02-18,Sneha,South,Furniture,Chair,7820,10,1531.09
+1463,2024-11-03,John,North,Furniture,Sofa,3336,6,371.26
+1464,2023-09-23,John,West,Office Supplies,Binder,25,1,12.0
+1465,2024-11-20,Michael,North,Office Supplies,Folder,63,9,21.07
+1466,2024-11-07,Michael,West,Furniture,Sofa,964,2,77.69
+1467,2024-03-19,Michael,East,Office Supplies,Binder,184,8,74.56
+1468,2023-04-03,Sarah,North,Technology,Laptop,1773,1,475.74
+1469,2023-10-31,David,North,Technology,Laptop,13984,8,3935.94
+1470,2023-03-14,Rahul,West,Office Supplies,Pen Set,10,2,4.68
+1471,2023-06-24,Amit,West,Office Supplies,Binder,126,7,43.71
+1472,2024-04-16,Michael,North,Office Supplies,Pen Set,235,5,117.03
+1473,2024-02-21,Michael,West,Technology,Laptop,4552,8,613.56
+1474,2023-07-06,David,North,Technology,Monitor,3944,4,720.42
+1475,2024-06-14,Rahul,South,Office Supplies,Stapler,154,7,68.37
+1476,2023-05-08,Priya,West,Technology,Laptop,12708,9,2553.07
+1477,2024-03-12,Rahul,South,Furniture,Desk,4088,7,633.43
+1478,2024-11-22,Rahul,North,Office Supplies,Binder,81,9,29.61
+1479,2023-07-22,Rahul,North,Office Supplies,Paper,322,7,134.84
+1480,2023-10-08,John,North,Office Supplies,Paper,72,2,27.01
+1481,2024-09-30,Emily,East,Technology,USB Hub,2252,4,654.69
+1482,2023-03-23,Amit,West,Technology,Monitor,4557,3,-455.7
+1483,2023-09-14,Chandan,West,Technology,Laptop,6546,6,-654.6
+1484,2024-08-19,Emily,North,Office Supplies,Folder,360,8,133.52
+1485,2023-02-13,John,West,Furniture,Desk,208,1,17.27
+1486,2024-08-13,Amit,East,Office Supplies,Stapler,200,5,66.31
+1487,2024-09-14,Sneha,East,Furniture,Desk,6440,10,805.75
+1488,2024-09-04,Priya,East,Office Supplies,Paper,30,6,14.66
+1489,2023-07-04,David,East,Technology,USB Hub,3094,2,755.86
+1490,2023-01-08,David,East,Technology,USB Hub,13113,9,2475.38
+1491,2024-09-05,David,South,Furniture,Table,5472,8,734.56
+1492,2023-07-26,Priya,East,Furniture,Chair,1346,2,87.49
+1493,2024-08-15,Michael,North,Technology,Smartphone,2350,2,459.87
+1494,2023-10-27,John,West,Office Supplies,Pen Set,46,1,16.94
+1495,2024-01-31,Michael,South,Office Supplies,Pen Set,147,7,52.41
+1496,2024-07-07,David,South,Furniture,Chair,944,1,113.05
+1497,2023-01-02,Emily,East,Furniture,Desk,2568,8,-256.8
+1498,2023-02-26,David,West,Technology,Smartphone,1771,7,398.25
+1499,2023-10-04,Sneha,East,Office Supplies,Folder,112,4,35.87
+1500,2024-04-28,Sneha,North,Office Supplies,Stapler,18,1,-1.8
+1501,2024-07-14,John,West,Technology,Monitor,5690,10,629.76
+1502,2023-07-26,John,West,Technology,USB Hub,3703,7,469.09
+1503,2023-03-23,Michael,East,Furniture,Desk,798,6,86.76
+1504,2024-11-04,Sneha,West,Office Supplies,Pen Set,184,8,71.34
+1505,2024-04-26,Sarah,West,Furniture,Chair,2528,8,500.78
+1506,2023-09-20,Priya,East,Office Supplies,Pen Set,40,8,13.24
+1507,2024-05-18,Chandan,West,Technology,Headphones,2864,2,-286.4
+1508,2024-07-31,Priya,West,Office Supplies,Pen Set,24,4,8.79
+1509,2023-10-03,Michael,South,Office Supplies,Folder,243,9,87.28
+1510,2024-07-10,Chandan,East,Office Supplies,Binder,280,7,98.92
+1511,2023-03-22,Priya,North,Technology,Headphones,2328,6,303.16
+1512,2023-12-14,Sneha,East,Office Supplies,Binder,376,8,131.78
+1513,2024-05-09,Michael,West,Furniture,Sofa,4179,7,249.52
+1514,2023-05-11,Amit,East,Office Supplies,Binder,10,2,3.54
+1515,2023-03-20,Sarah,West,Office Supplies,Pen Set,320,8,119.13
+1516,2024-02-13,Sneha,West,Furniture,Sofa,6147,9,533.57
+1517,2024-04-27,David,East,Technology,Laptop,6084,4,1750.17
+1518,2024-08-02,Emily,East,Furniture,Desk,4840,8,350.18
+1519,2024-08-16,Chandan,North,Technology,Smartphone,1420,5,296.37
+1520,2024-05-24,Emily,West,Technology,Smartphone,2380,10,404.34
+1521,2023-11-30,David,West,Furniture,Sofa,429,3,61.49
+1522,2023-07-27,Rahul,West,Technology,Monitor,7038,6,1521.0
+1523,2024-07-15,Michael,South,Technology,Monitor,18330,10,2553.08
+1524,2024-03-23,Michael,West,Technology,USB Hub,2610,6,480.22
+1525,2023-10-10,Chandan,North,Technology,Headphones,15687,9,1955.94
+1526,2023-01-06,Chandan,East,Furniture,Bookshelf,1758,3,113.85
+1527,2024-04-12,Priya,North,Office Supplies,Pen Set,108,6,37.76
+1528,2024-05-09,Michael,East,Technology,Monitor,4305,3,605.45
+1529,2023-08-25,David,West,Office Supplies,Paper,175,7,64.48
+1530,2023-03-29,Chandan,West,Furniture,Chair,9850,10,1147.92
+1531,2023-08-27,Sneha,South,Technology,Monitor,8495,5,2118.26
+1532,2024-03-21,David,North,Technology,USB Hub,2200,8,-220.0
+1533,2024-06-22,Michael,North,Furniture,Table,1254,6,65.17
+1534,2024-02-17,David,East,Office Supplies,Pen Set,246,6,83.16
+1535,2023-07-27,Emily,West,Office Supplies,Pen Set,147,7,46.35
+1536,2023-05-17,Priya,East,Technology,USB Hub,4569,3,1090.85
+1537,2024-08-02,John,South,Technology,Laptop,468,1,106.15
+1538,2023-03-15,Chandan,North,Technology,Monitor,3028,2,609.15
+1539,2024-05-29,Emily,North,Office Supplies,Binder,51,3,-5.1
+1540,2024-05-14,Sarah,North,Office Supplies,Paper,105,3,47.66
+1541,2023-03-07,Rahul,South,Technology,USB Hub,3032,4,316.59
+1542,2024-05-25,Rahul,South,Technology,Laptop,6076,4,1321.19
+1543,2024-02-08,Sneha,North,Office Supplies,Paper,80,8,26.32
+1544,2024-01-05,David,West,Office Supplies,Pen Set,387,9,191.86
+1545,2024-06-03,Emily,East,Technology,Laptop,3594,2,-359.4
+1546,2023-06-18,Chandan,South,Office Supplies,Paper,70,5,28.72
+1547,2024-08-05,John,East,Technology,Smartphone,3204,3,-320.4
+1548,2024-02-22,Priya,West,Furniture,Table,1736,8,186.75
+1549,2024-03-28,Sneha,South,Furniture,Sofa,305,1,55.26
+1550,2024-04-04,John,South,Technology,USB Hub,2664,8,396.44
+1551,2024-10-23,Emily,West,Technology,Headphones,9888,8,1554.91
+1552,2023-06-28,Rahul,North,Office Supplies,Binder,306,9,99.81
+1553,2024-08-05,Chandan,West,Technology,USB Hub,3436,4,721.76
+1554,2023-06-02,Michael,North,Furniture,Bookshelf,2428,4,153.87
+1555,2023-03-16,Chandan,East,Technology,Monitor,1850,1,323.38
+1556,2024-07-03,Michael,South,Technology,Laptop,6183,9,1799.79
+1557,2024-05-01,Sarah,East,Technology,Monitor,15890,10,3041.09
+1558,2024-01-13,Rahul,West,Furniture,Chair,2296,7,317.35
+1559,2023-01-17,Chandan,South,Technology,Smartphone,230,1,36.76
+1560,2024-01-27,Chandan,West,Office Supplies,Folder,240,10,75.11
+1561,2023-04-23,Chandan,South,Technology,Smartphone,4482,3,706.93
+1562,2024-04-22,John,West,Office Supplies,Stapler,324,9,161.18
+1563,2023-04-06,John,South,Technology,Smartphone,17180,10,3370.28
+1564,2023-03-11,David,East,Technology,Monitor,2877,7,-287.7
+1565,2023-10-22,Amit,East,Technology,USB Hub,2878,2,532.68
+1566,2023-11-15,John,West,Furniture,Sofa,1746,9,-174.6
+1567,2024-05-18,Michael,East,Technology,Laptop,6870,5,-687.0
+1568,2024-11-14,Sarah,West,Technology,Monitor,5520,3,1311.16
+1569,2023-07-15,David,East,Office Supplies,Folder,84,7,39.74
+1570,2024-05-08,Amit,North,Office Supplies,Folder,112,7,37.21
+1571,2023-11-18,Chandan,South,Office Supplies,Stapler,252,6,82.09
+1572,2023-07-04,Michael,North,Office Supplies,Binder,33,1,15.46
+1573,2024-03-21,Chandan,North,Technology,Headphones,1157,1,241.68
+1574,2024-08-23,Sarah,South,Office Supplies,Paper,368,8,115.0
+1575,2024-10-26,Emily,West,Furniture,Table,3132,9,206.92
+1576,2024-05-08,Priya,North,Furniture,Desk,1020,5,56.7
+1577,2024-11-28,Emily,North,Furniture,Sofa,160,1,20.88
+1578,2024-08-27,Sneha,South,Office Supplies,Stapler,78,2,30.81
+1579,2024-07-21,Amit,East,Furniture,Bookshelf,1472,4,134.94
+1580,2024-09-25,Sarah,West,Office Supplies,Pen Set,87,3,30.43
+1581,2023-05-08,Priya,East,Office Supplies,Paper,22,2,7.03
+1582,2023-03-17,Amit,South,Technology,Smartphone,9234,9,1875.06
+1583,2024-10-23,John,North,Technology,Laptop,454,1,110.52
+1584,2024-10-20,Emily,West,Technology,Monitor,7128,8,1999.42
+1585,2024-11-09,Chandan,East,Technology,Monitor,5970,6,1790.47
+1586,2024-02-12,Chandan,North,Furniture,Bookshelf,600,3,46.61
+1587,2023-09-01,Michael,West,Furniture,Table,4810,5,774.96
+1588,2024-04-20,Amit,West,Technology,Laptop,5019,3,1040.62
+1589,2023-07-01,Priya,South,Office Supplies,Paper,176,8,80.4
+1590,2023-01-03,Michael,East,Technology,Laptop,9392,8,-939.2
+1591,2024-01-29,Rahul,North,Office Supplies,Stapler,245,5,120.37
+1592,2024-04-17,David,South,Technology,Smartphone,7776,8,796.22
+1593,2024-04-11,Sarah,North,Furniture,Desk,2442,3,255.66
+1594,2024-08-24,Chandan,North,Technology,Laptop,12410,10,2976.28
+1595,2023-10-11,David,East,Office Supplies,Stapler,329,7,155.95
+1596,2024-05-17,Chandan,West,Office Supplies,Pen Set,108,4,48.82
+1597,2023-05-09,Sneha,West,Furniture,Desk,6540,10,-654.0
+1598,2023-09-23,Chandan,North,Technology,Monitor,4496,8,895.67
+1599,2024-01-15,Priya,North,Technology,Laptop,1656,3,496.52
+1600,2023-11-14,John,West,Technology,Headphones,4170,5,852.84
+1601,2024-08-10,Priya,North,Office Supplies,Binder,68,4,33.45
+1602,2023-07-10,Emily,South,Technology,Monitor,7931,7,1463.86
+1603,2024-08-22,Amit,West,Furniture,Desk,2196,4,192.99
+1604,2023-06-08,Sneha,West,Office Supplies,Stapler,203,7,96.17
+1605,2023-11-22,John,North,Office Supplies,Paper,39,3,12.97
+1606,2024-05-02,Amit,East,Technology,Laptop,12110,10,3119.64
+1607,2024-01-14,Priya,North,Furniture,Sofa,1962,6,281.82
+1608,2024-05-15,Sneha,East,Furniture,Table,7736,8,387.8
+1609,2024-11-30,Amit,South,Office Supplies,Paper,66,6,19.98
+1610,2023-01-23,Rahul,East,Office Supplies,Binder,232,8,98.81
+1611,2023-08-07,Emily,South,Office Supplies,Binder,215,5,-21.5
+1612,2023-06-29,Sneha,South,Technology,Laptop,1165,1,127.67
+1613,2023-09-14,Rahul,West,Office Supplies,Binder,260,10,113.92
+1614,2023-10-25,Emily,North,Technology,Laptop,5292,4,1361.38
+1615,2024-06-16,Priya,North,Technology,Monitor,2374,2,256.28
+1616,2024-07-09,David,West,Technology,Monitor,5418,6,776.43
+1617,2024-06-12,Emily,West,Furniture,Bookshelf,1948,4,157.24
+1618,2024-01-06,Chandan,North,Furniture,Sofa,2624,4,518.56
+1619,2023-08-12,Chandan,South,Office Supplies,Stapler,144,8,-14.4
+1620,2023-05-05,Michael,North,Technology,Monitor,3646,2,873.62
+1621,2024-11-27,Rahul,East,Office Supplies,Folder,70,7,24.1
+1622,2023-11-27,Chandan,North,Furniture,Desk,1680,5,100.69
+1623,2024-09-14,Emily,West,Office Supplies,Binder,162,9,59.64
+1624,2023-01-21,David,North,Furniture,Bookshelf,677,1,70.04
+1625,2023-02-14,Emily,West,Office Supplies,Pen Set,102,3,32.7
+1626,2023-02-09,John,West,Technology,Headphones,10062,6,2880.58
+1627,2023-04-26,Sarah,North,Office Supplies,Paper,98,7,37.18
+1628,2023-11-20,David,South,Office Supplies,Paper,20,1,8.24
+1629,2024-01-20,Amit,West,Furniture,Chair,1040,10,157.23
+1630,2023-07-04,Sarah,East,Office Supplies,Stapler,20,4,-2.0
+1631,2023-01-08,Michael,North,Technology,Monitor,14392,8,4304.49
+1632,2023-09-05,Emily,East,Furniture,Sofa,1950,6,110.34
+1633,2023-04-13,David,East,Furniture,Sofa,3736,8,324.76
+1634,2023-01-25,Priya,West,Office Supplies,Folder,60,2,25.6
+1635,2023-12-04,John,South,Office Supplies,Binder,400,10,172.62
+1636,2023-07-08,David,East,Office Supplies,Stapler,112,4,-11.2
+1637,2023-08-25,Chandan,West,Technology,Laptop,3776,2,-377.6
+1638,2024-06-26,Sarah,East,Furniture,Desk,1981,7,218.98
+1639,2023-11-29,Chandan,South,Furniture,Sofa,2187,9,123.21
+1640,2024-08-29,Amit,North,Furniture,Table,2817,3,550.68
+1641,2023-12-12,Priya,East,Technology,Laptop,938,1,-93.8
+1642,2024-01-14,Sarah,South,Technology,Monitor,1096,4,228.63
+1643,2024-05-17,Emily,East,Office Supplies,Pen Set,54,2,-5.4
+1644,2024-03-22,David,East,Technology,USB Hub,5275,5,583.53
+1645,2023-12-24,Michael,South,Furniture,Sofa,2580,3,421.44
+1646,2023-02-23,John,East,Office Supplies,Paper,90,3,-9.0
+1647,2023-03-24,Amit,West,Office Supplies,Folder,88,8,36.8
+1648,2024-01-07,Sarah,North,Office Supplies,Folder,200,5,72.55
+1649,2024-03-01,Chandan,North,Technology,Monitor,1059,1,143.98
+1650,2023-07-22,David,North,Office Supplies,Binder,30,1,14.79
+1651,2023-12-27,Priya,South,Furniture,Chair,395,1,54.12
+1652,2023-05-21,Priya,South,Technology,Laptop,9192,8,2068.28
+1653,2024-05-14,Amit,North,Furniture,Desk,6060,10,401.51
+1654,2023-02-17,Michael,West,Office Supplies,Pen Set,50,1,15.06
+1655,2024-01-22,Amit,West,Technology,Headphones,536,2,104.02
+1656,2024-03-19,Sneha,North,Technology,USB Hub,3570,3,372.58
+1657,2024-06-28,Priya,West,Technology,Laptop,11890,10,2340.64
+1658,2023-03-31,Chandan,North,Technology,Headphones,5788,4,879.51
+1659,2023-01-22,John,East,Technology,USB Hub,17770,10,4097.9
+1660,2023-01-04,Priya,West,Office Supplies,Paper,33,3,12.13
+1661,2023-11-29,Sneha,North,Furniture,Table,1188,2,90.88
+1662,2024-01-27,David,West,Technology,Laptop,14736,8,4347.6
+1663,2024-01-28,Rahul,North,Office Supplies,Pen Set,172,4,84.65
+1664,2024-08-16,Amit,South,Furniture,Desk,758,1,48.95
+1665,2023-05-22,Emily,East,Furniture,Chair,620,5,111.85
+1666,2024-11-01,John,North,Office Supplies,Binder,32,1,14.35
+1667,2023-11-02,Emily,South,Furniture,Desk,239,1,23.39
+1668,2024-05-28,Sarah,North,Technology,Headphones,2010,10,347.15
+1669,2023-08-07,Emily,East,Office Supplies,Folder,243,9,113.74
+1670,2024-04-11,Rahul,West,Office Supplies,Binder,150,5,56.1
+1671,2023-02-09,Amit,East,Furniture,Table,1473,3,208.5
+1672,2024-06-04,Sneha,East,Office Supplies,Folder,420,10,160.35
+1673,2024-02-07,Amit,South,Furniture,Table,6176,8,1043.02
+1674,2024-10-02,John,West,Technology,USB Hub,2631,3,749.18
+1675,2024-06-23,Priya,North,Furniture,Bookshelf,8420,10,1543.75
+1676,2024-01-13,David,East,Technology,Headphones,9170,10,2209.54
+1677,2024-08-11,Emily,East,Office Supplies,Binder,145,5,60.02
+1678,2023-05-12,John,West,Furniture,Bookshelf,9230,10,1348.44
+1679,2024-09-17,Priya,South,Furniture,Table,1269,3,94.58
+1680,2023-07-19,Emily,South,Office Supplies,Paper,156,6,57.37
+1681,2024-08-23,John,South,Technology,Laptop,9912,8,1277.33
+1682,2024-02-24,Emily,North,Furniture,Bookshelf,1854,3,249.7
+1683,2023-09-26,Amit,West,Office Supplies,Paper,54,2,23.89
+1684,2023-01-12,Sarah,West,Furniture,Sofa,3429,9,476.02
+1685,2024-09-17,Chandan,West,Furniture,Chair,5880,8,718.27
+1686,2023-06-16,David,West,Technology,Monitor,12859,7,2429.03
+1687,2024-01-21,Amit,West,Office Supplies,Pen Set,40,4,13.02
+1688,2024-10-28,Rahul,East,Technology,Smartphone,15480,9,1814.77
+1689,2023-03-06,Sneha,West,Office Supplies,Stapler,44,2,14.1
+1690,2023-12-19,Emily,West,Technology,Monitor,5109,3,711.42
+1691,2024-01-04,John,West,Office Supplies,Stapler,24,2,11.01
+1692,2023-09-10,Michael,West,Furniture,Chair,636,2,-63.6
+1693,2023-11-12,John,East,Office Supplies,Paper,72,3,28.1
+1694,2023-09-30,David,North,Office Supplies,Binder,200,8,65.87
+1695,2023-03-18,Rahul,East,Office Supplies,Pen Set,130,10,52.44
+1696,2024-04-09,John,South,Office Supplies,Stapler,153,9,55.74
+1697,2023-05-11,Chandan,West,Office Supplies,Paper,27,3,11.21
+1698,2023-07-23,Michael,West,Technology,USB Hub,15744,8,1752.52
+1699,2023-04-30,John,East,Office Supplies,Paper,210,5,92.85
+1700,2024-06-01,Chandan,West,Technology,Laptop,8491,7,2368.9
+1701,2023-08-17,Emily,South,Office Supplies,Folder,15,1,6.84
+1702,2023-01-09,Sarah,South,Furniture,Chair,3537,9,199.71
+1703,2024-05-10,Sneha,East,Office Supplies,Pen Set,32,2,10.95
+1704,2023-10-05,David,South,Furniture,Chair,2394,9,432.18
+1705,2024-02-15,Sneha,North,Furniture,Bookshelf,3648,4,265.46
+1706,2023-06-14,Priya,East,Office Supplies,Stapler,165,5,81.78
+1707,2024-08-19,John,East,Technology,Laptop,11976,6,1364.8
+1708,2023-06-19,Sneha,West,Furniture,Sofa,5016,8,495.09
+1709,2023-02-02,Sarah,East,Technology,Smartphone,684,2,116.85
+1710,2024-03-25,Priya,West,Technology,Smartphone,11552,8,1431.56
+1711,2024-04-20,Rahul,West,Office Supplies,Folder,64,4,25.47
+1712,2024-05-18,Priya,North,Furniture,Table,3780,5,495.99
+1713,2024-05-02,David,North,Technology,Headphones,8162,7,-816.2
+1714,2023-03-13,Sneha,North,Office Supplies,Pen Set,46,2,20.36
+1715,2024-11-29,Emily,East,Furniture,Desk,1370,10,175.26
+1716,2023-04-07,Amit,South,Technology,Smartphone,2334,3,645.34
+1717,2024-10-24,Emily,South,Office Supplies,Folder,128,8,-12.8
+1718,2024-03-31,Rahul,South,Technology,Smartphone,2676,2,495.33
+1719,2024-10-01,Emily,West,Technology,Headphones,1796,4,338.36
+1720,2023-12-13,Michael,East,Office Supplies,Folder,204,6,89.26
+1721,2023-04-20,Michael,East,Office Supplies,Pen Set,75,3,27.42
+1722,2023-04-08,Sarah,West,Office Supplies,Stapler,48,6,23.25
+1723,2023-06-22,Amit,South,Office Supplies,Stapler,162,9,71.83
+1724,2023-12-24,David,North,Office Supplies,Binder,300,6,121.04
+1725,2024-01-26,Chandan,North,Technology,Laptop,7508,4,1943.95
+1726,2023-03-15,Sneha,West,Technology,Monitor,3801,7,505.91
+1727,2023-01-19,John,South,Furniture,Sofa,3904,8,712.16
+1728,2024-01-13,Michael,East,Office Supplies,Pen Set,10,1,4.5
+1729,2023-10-06,Sneha,West,Furniture,Sofa,1704,6,205.6
+1730,2024-04-08,Michael,South,Technology,Monitor,6548,4,1052.37
+1731,2024-08-08,Emily,North,Furniture,Desk,484,2,-48.4
+1732,2024-01-08,Sarah,West,Technology,Headphones,756,3,140.42
+1733,2024-08-21,John,West,Technology,Headphones,1765,1,314.64
+1734,2023-05-09,Michael,North,Technology,USB Hub,8072,8,1031.37
+1735,2024-09-21,Sneha,East,Office Supplies,Folder,240,10,112.03
+1736,2023-03-31,Michael,East,Furniture,Chair,529,1,56.64
+1737,2023-09-27,Emily,East,Technology,Smartphone,7985,5,1780.26
+1738,2023-05-30,Priya,South,Furniture,Sofa,3136,4,497.1
+1739,2023-12-24,Emily,North,Office Supplies,Paper,45,1,15.2
+1740,2023-07-01,Emily,North,Office Supplies,Paper,272,8,130.58
+1741,2024-05-26,Chandan,East,Furniture,Sofa,724,1,64.4
+1742,2023-06-05,Sneha,South,Technology,USB Hub,10824,6,2259.51
+1743,2024-05-27,Emily,South,Furniture,Table,4155,5,689.88
+1744,2023-09-29,Michael,North,Furniture,Desk,505,5,33.68
+1745,2023-06-28,David,South,Office Supplies,Folder,172,4,79.95
+1746,2024-08-03,Priya,East,Office Supplies,Stapler,270,6,95.47
+1747,2024-07-05,Amit,West,Technology,USB Hub,5505,5,840.99
+1748,2023-05-26,David,South,Office Supplies,Pen Set,171,9,66.44
+1749,2024-07-03,Chandan,West,Office Supplies,Binder,312,8,103.45
+1750,2024-06-12,Sarah,East,Office Supplies,Paper,150,6,68.22
+1751,2023-02-26,Chandan,West,Office Supplies,Stapler,310,10,110.92
+1752,2023-12-29,John,North,Technology,Headphones,10386,6,2545.88
+1753,2024-09-10,Emily,North,Technology,Monitor,4249,7,1008.94
+1754,2023-08-28,David,South,Office Supplies,Binder,112,7,40.68
+1755,2023-09-11,Amit,West,Technology,Headphones,11980,10,3310.58
+1756,2023-04-10,Sarah,East,Technology,USB Hub,6560,4,-656.0
+1757,2023-12-28,Amit,North,Office Supplies,Binder,120,10,45.93
+1758,2023-06-16,Amit,South,Technology,Smartphone,6720,8,1034.3
+1759,2024-04-02,Emily,East,Furniture,Chair,744,4,112.68
+1760,2023-06-30,Michael,West,Technology,Laptop,15130,10,4362.03
+1761,2024-04-18,Emily,East,Office Supplies,Binder,138,3,50.84
+1762,2024-04-17,Michael,East,Technology,Smartphone,7112,8,1855.38
+1763,2023-02-28,Emily,East,Office Supplies,Paper,272,8,96.4
+1764,2023-04-04,Emily,West,Furniture,Bookshelf,4315,5,368.64
+1765,2023-12-30,Rahul,South,Furniture,Desk,6291,9,577.53
+1766,2023-12-11,Rahul,South,Furniture,Bookshelf,5688,8,437.18
+1767,2023-05-02,Priya,North,Office Supplies,Binder,90,2,-9.0
+1768,2023-02-11,Chandan,South,Technology,Headphones,1568,1,368.12
+1769,2023-11-27,Rahul,South,Furniture,Chair,1980,3,195.71
+1770,2024-10-09,David,North,Office Supplies,Pen Set,32,1,13.93
+1771,2024-07-19,Chandan,North,Technology,USB Hub,1878,2,-187.8
+1772,2023-10-02,Chandan,North,Furniture,Chair,2624,4,352.21
+1773,2023-01-27,Chandan,South,Furniture,Desk,2240,4,339.01
+1774,2024-09-12,Michael,West,Furniture,Sofa,4600,10,501.2
+1775,2024-03-22,Sneha,West,Office Supplies,Pen Set,225,5,73.12
+1776,2023-02-27,Emily,East,Technology,USB Hub,1498,1,159.88
+1777,2023-10-14,Sarah,West,Furniture,Sofa,2916,3,465.75
+1778,2023-12-10,Rahul,North,Office Supplies,Stapler,18,2,7.57
+1779,2024-11-05,John,North,Office Supplies,Folder,110,5,41.64
+1780,2024-06-24,Priya,West,Office Supplies,Folder,168,4,81.78
+1781,2024-10-05,John,West,Furniture,Desk,1224,3,193.57
+1782,2023-04-17,John,North,Office Supplies,Binder,144,3,43.26
+1783,2023-01-25,Chandan,West,Furniture,Chair,738,2,-73.8
+1784,2024-03-24,Sneha,South,Office Supplies,Paper,248,8,113.83
+1785,2023-02-27,Sneha,North,Technology,Monitor,11796,6,1748.47
+1786,2024-01-22,Sarah,North,Furniture,Desk,960,5,73.62
+1787,2024-05-16,Emily,South,Technology,Laptop,12480,8,2552.69
+1788,2023-08-10,Sneha,South,Technology,Headphones,5026,7,748.61
+1789,2023-02-02,Michael,South,Office Supplies,Folder,238,7,91.66
+1790,2023-07-30,Rahul,North,Furniture,Desk,2442,6,255.77
+1791,2024-10-27,John,East,Technology,Laptop,3520,4,-352.0
+1792,2024-06-17,Chandan,South,Furniture,Chair,917,1,-91.7
+1793,2024-01-06,Sarah,South,Office Supplies,Paper,200,4,71.58
+1794,2023-06-12,Sarah,North,Furniture,Sofa,4392,6,553.39
+1795,2024-04-27,Priya,North,Technology,Headphones,452,2,126.23
+1796,2024-05-01,Rahul,East,Technology,Headphones,2692,4,461.45
+1797,2023-12-03,Sneha,East,Technology,USB Hub,1215,3,332.33
+1798,2023-03-12,Priya,North,Office Supplies,Pen Set,152,4,46.59
+1799,2024-03-30,Sneha,North,Technology,Laptop,7861,7,1234.05
+1800,2024-03-29,David,East,Office Supplies,Paper,240,10,74.63
+1801,2023-07-29,Michael,North,Furniture,Table,1884,6,263.67
+1802,2023-08-29,Amit,South,Office Supplies,Binder,152,8,66.99
+1803,2024-10-04,John,West,Furniture,Table,6216,7,477.55
+1804,2024-07-24,David,West,Furniture,Desk,1144,2,68.49
+1805,2023-04-25,John,West,Office Supplies,Pen Set,76,4,32.95
+1806,2023-12-19,John,South,Office Supplies,Stapler,124,4,56.07
+1807,2023-01-03,Priya,North,Technology,Smartphone,5744,4,888.68
+1808,2023-10-19,Michael,East,Office Supplies,Folder,144,3,58.0
+1809,2023-02-12,John,East,Technology,USB Hub,957,1,249.22
+1810,2023-10-11,Sarah,West,Furniture,Chair,1590,10,83.51
+1811,2023-08-11,Emily,East,Technology,Monitor,3636,6,988.81
+1812,2023-12-27,Emily,West,Office Supplies,Pen Set,15,3,4.68
+1813,2023-01-10,Sneha,South,Office Supplies,Stapler,322,7,128.55
+1814,2023-07-19,Priya,East,Furniture,Desk,4767,7,-476.7
+1815,2023-03-18,Amit,East,Technology,Headphones,4214,7,990.23
+1816,2024-10-29,Emily,West,Furniture,Bookshelf,5838,7,519.38
+1817,2023-01-10,Sarah,West,Office Supplies,Folder,120,4,51.25
+1818,2024-04-12,Sneha,South,Technology,Headphones,8400,8,2206.88
+1819,2024-10-01,Sarah,West,Office Supplies,Paper,250,10,90.09
+1820,2024-05-26,Chandan,East,Office Supplies,Stapler,170,5,67.69
+1821,2024-07-31,Emily,North,Office Supplies,Stapler,14,1,6.38
+1822,2024-11-06,John,North,Furniture,Sofa,4635,9,748.96
+1823,2023-05-06,Amit,North,Technology,Smartphone,6992,8,804.3
+1824,2023-05-31,Michael,East,Technology,Laptop,3465,7,742.76
+1825,2023-01-08,Priya,North,Office Supplies,Stapler,189,9,58.07
+1826,2023-09-22,Sarah,East,Furniture,Chair,4230,9,621.56
+1827,2023-02-11,Rahul,West,Office Supplies,Pen Set,72,3,35.61
+1828,2023-02-03,Amit,South,Office Supplies,Pen Set,164,4,62.37
+1829,2024-09-06,Amit,West,Furniture,Desk,517,1,92.23
+1830,2024-08-21,John,South,Furniture,Chair,4160,10,-416.0
+1831,2023-01-04,David,East,Technology,USB Hub,9705,5,1660.28
+1832,2024-04-04,Priya,West,Office Supplies,Folder,176,8,71.16
+1833,2024-06-12,Priya,West,Office Supplies,Pen Set,351,9,113.58
+1834,2023-11-08,Michael,North,Furniture,Table,1155,5,174.89
+1835,2024-07-20,Chandan,East,Office Supplies,Pen Set,180,10,87.93
+1836,2024-11-20,Rahul,East,Technology,Headphones,2562,3,339.82
+1837,2024-10-13,Amit,South,Technology,Smartphone,7600,10,1015.69
+1838,2024-06-21,David,West,Furniture,Desk,1904,4,363.17
+1839,2023-07-30,Rahul,North,Technology,Smartphone,6884,4,1807.2
+1840,2024-04-04,John,East,Technology,USB Hub,1753,1,-175.3
+1841,2024-10-11,David,East,Office Supplies,Folder,282,6,99.33
+1842,2024-02-04,Michael,North,Technology,USB Hub,11340,9,2360.59
+1843,2023-11-02,Amit,South,Technology,Monitor,4340,7,557.1
+1844,2023-04-30,Sarah,South,Furniture,Desk,3420,9,388.5
+1845,2024-10-24,Priya,North,Office Supplies,Folder,35,1,13.95
+1846,2024-07-09,Priya,East,Technology,Laptop,1143,3,332.55
+1847,2024-09-22,Michael,West,Technology,Laptop,5696,4,850.02
+1848,2024-03-25,Emily,West,Furniture,Desk,474,3,75.97
+1849,2023-07-22,Chandan,East,Technology,USB Hub,1093,1,147.82
+1850,2023-05-27,Amit,North,Office Supplies,Folder,126,7,-12.6
+1851,2023-01-28,John,West,Technology,Laptop,5035,5,1027.97
+1852,2023-10-26,Sneha,East,Furniture,Table,4879,7,453.82
+1853,2024-02-11,Sarah,North,Office Supplies,Paper,120,4,-12.0
+1854,2023-01-03,Rahul,South,Office Supplies,Pen Set,315,7,109.37
+1855,2024-02-26,Sarah,West,Furniture,Desk,1830,6,183.21
+1856,2023-12-12,Rahul,North,Office Supplies,Folder,18,2,-1.8
+1857,2024-08-24,Priya,South,Office Supplies,Stapler,45,3,-4.5
+1858,2023-11-10,Priya,West,Office Supplies,Folder,133,7,50.84
+1859,2024-06-07,Priya,East,Furniture,Bookshelf,1348,2,135.98
+1860,2024-01-29,Michael,South,Furniture,Sofa,1490,2,116.26
+1861,2024-10-23,Michael,West,Office Supplies,Paper,63,3,28.26
+1862,2023-09-19,Amit,East,Technology,Headphones,1570,1,396.72
+1863,2023-05-11,Rahul,West,Office Supplies,Pen Set,108,4,39.69
+1864,2023-06-30,Chandan,North,Office Supplies,Pen Set,195,5,87.38
+1865,2023-08-08,Sarah,East,Furniture,Chair,2145,5,254.34
+1866,2023-10-30,Chandan,South,Furniture,Bookshelf,1660,5,205.14
+1867,2024-06-17,Emily,West,Office Supplies,Stapler,324,9,138.18
+1868,2023-01-02,Sneha,West,Furniture,Desk,5680,10,776.01
+1869,2024-07-28,Chandan,North,Furniture,Table,1676,2,257.37
+1870,2023-09-24,Emily,South,Furniture,Sofa,4360,10,414.68
+1871,2024-09-17,Amit,East,Office Supplies,Folder,126,6,47.22
+1872,2024-03-18,Sneha,East,Office Supplies,Folder,360,9,117.34
+1873,2023-09-03,Sarah,East,Furniture,Chair,990,2,80.37
+1874,2023-09-21,John,East,Technology,Smartphone,3062,2,877.85
+1875,2024-06-30,Priya,West,Furniture,Table,2901,3,148.13
+1876,2024-01-19,David,South,Furniture,Table,2910,6,204.37
+1877,2023-05-08,Sarah,East,Furniture,Sofa,2415,7,-241.5
+1878,2023-03-29,John,East,Office Supplies,Folder,49,1,-4.9
+1879,2023-03-22,Michael,East,Office Supplies,Paper,430,10,153.87
+1880,2023-10-29,Amit,West,Technology,USB Hub,5316,3,1437.63
+1881,2023-08-19,Sneha,North,Office Supplies,Binder,54,9,26.27
+1882,2023-10-21,Chandan,South,Technology,USB Hub,803,1,141.29
+1883,2024-09-26,Sarah,North,Furniture,Table,7938,9,1140.44
+1884,2023-11-09,Sneha,East,Technology,Monitor,2085,5,373.02
+1885,2023-04-23,Sneha,North,Technology,Smartphone,6440,10,1209.63
+1886,2023-04-14,John,East,Technology,Laptop,3032,2,901.47
+1887,2024-09-15,Amit,East,Office Supplies,Stapler,203,7,62.1
+1888,2023-02-11,Amit,East,Technology,Smartphone,4932,9,905.91
+1889,2024-07-30,Priya,North,Office Supplies,Pen Set,287,7,105.3
+1890,2023-07-07,Emily,South,Technology,Laptop,1656,2,296.52
+1891,2023-09-26,John,West,Office Supplies,Paper,161,7,62.97
+1892,2024-04-14,John,East,Technology,Headphones,6084,6,955.4
+1893,2024-11-06,Sarah,West,Office Supplies,Binder,190,5,88.29
+1894,2024-10-03,Sarah,East,Technology,Laptop,5229,7,-522.9
+1895,2024-09-22,Sarah,East,Furniture,Bookshelf,2464,7,392.02
+1896,2023-05-07,Amit,East,Technology,USB Hub,5184,8,1023.11
+1897,2024-06-04,Michael,West,Office Supplies,Stapler,96,8,47.63
+1898,2024-04-29,Chandan,South,Technology,Monitor,10686,6,1512.2
+1899,2023-12-17,Amit,West,Furniture,Bookshelf,6630,10,835.67
+1900,2023-03-19,Michael,South,Office Supplies,Binder,117,9,41.7
+1901,2023-08-16,Sarah,North,Furniture,Chair,530,5,95.38
+1902,2024-01-09,Amit,North,Technology,Laptop,12555,9,2838.37
+1903,2023-05-19,Sarah,South,Office Supplies,Folder,380,10,136.52
+1904,2024-07-05,Amit,East,Office Supplies,Folder,36,2,12.72
+1905,2023-07-16,Emily,North,Technology,Laptop,3945,3,727.05
+1906,2024-10-05,Priya,West,Technology,Smartphone,3780,2,815.38
+1907,2023-01-07,Amit,West,Technology,Smartphone,2649,3,283.13
+1908,2024-01-02,Emily,South,Office Supplies,Stapler,48,8,20.04
+1909,2023-12-26,David,South,Furniture,Table,5957,7,748.76
+1910,2024-03-03,John,North,Furniture,Bookshelf,810,5,152.0
+1911,2024-11-12,Michael,North,Office Supplies,Stapler,231,7,86.22
+1912,2024-09-24,Sneha,North,Furniture,Chair,670,1,60.29
+1913,2024-05-12,John,South,Office Supplies,Paper,329,7,134.18
+1914,2023-08-09,Priya,East,Technology,Monitor,6030,5,1343.4
+1915,2024-10-16,Priya,North,Technology,Laptop,13410,9,4018.9
+1916,2024-03-11,John,North,Furniture,Bookshelf,3600,10,514.74
+1917,2024-07-24,Chandan,North,Furniture,Chair,1960,4,254.53
+1918,2024-08-02,Amit,South,Office Supplies,Paper,39,3,12.78
+1919,2023-02-15,Sneha,South,Furniture,Table,844,1,120.85
+1920,2024-08-14,Chandan,South,Furniture,Chair,3668,4,651.73
+1921,2023-03-01,Amit,South,Furniture,Chair,9160,10,811.54
+1922,2023-02-03,Emily,North,Office Supplies,Pen Set,378,9,150.51
+1923,2024-08-20,Sarah,West,Furniture,Chair,2952,9,320.44
+1924,2023-04-19,Chandan,South,Furniture,Table,636,2,52.05
+1925,2023-10-26,Rahul,East,Furniture,Table,145,1,12.31
+1926,2024-09-19,Michael,North,Furniture,Desk,2576,7,375.1
+1927,2024-03-12,Priya,South,Furniture,Table,6273,9,452.13
+1928,2024-07-17,Sarah,East,Furniture,Bookshelf,102,1,7.29
+1929,2023-06-01,Priya,West,Technology,Smartphone,10040,8,1976.92
+1930,2023-09-24,Sarah,East,Technology,Smartphone,10806,6,-1080.6
+1931,2023-12-19,Michael,North,Furniture,Desk,2695,7,409.11
+1932,2023-06-26,Priya,South,Technology,USB Hub,2670,2,380.61
+1933,2024-07-02,Amit,East,Technology,Smartphone,3050,5,609.03
+1934,2024-08-21,Priya,East,Office Supplies,Folder,252,9,93.55
+1935,2023-09-08,Sneha,North,Office Supplies,Folder,66,2,31.67
+1936,2024-04-03,John,South,Technology,Laptop,8862,7,1132.29
+1937,2023-03-20,Michael,North,Office Supplies,Folder,129,3,-12.9
+1938,2024-10-18,John,East,Technology,Laptop,1328,1,311.57
+1939,2024-05-26,Emily,East,Furniture,Table,7784,8,1343.71
+1940,2024-07-15,David,South,Furniture,Sofa,1647,3,-164.7
+1941,2023-01-27,Amit,West,Furniture,Table,2948,4,-294.8
+1942,2023-05-11,Amit,South,Office Supplies,Binder,198,6,79.26
+1943,2023-09-19,David,North,Technology,Monitor,13430,10,-1343.0
+1944,2024-02-23,Amit,North,Technology,USB Hub,2493,9,723.0
+1945,2023-11-26,Sarah,West,Technology,Monitor,4887,3,-488.7
+1946,2023-08-02,Chandan,South,Office Supplies,Stapler,110,10,35.36
+1947,2024-08-01,Emily,North,Furniture,Bookshelf,5740,7,1019.58
+1948,2023-08-19,Michael,East,Office Supplies,Binder,88,2,39.0
+1949,2024-11-05,Chandan,East,Office Supplies,Folder,130,10,62.78
+1950,2023-04-06,David,North,Office Supplies,Stapler,196,4,63.81
+1951,2023-12-10,Priya,North,Furniture,Chair,1980,4,115.75
+1952,2024-11-05,Emily,East,Technology,Headphones,1245,3,233.13
+1953,2024-11-18,Sarah,North,Technology,Monitor,1084,4,154.07
+1954,2024-06-13,Chandan,North,Office Supplies,Stapler,243,9,75.83
+1955,2023-12-20,Rahul,South,Office Supplies,Stapler,48,2,22.52
+1956,2023-12-03,Sneha,West,Office Supplies,Folder,174,6,80.03
+1957,2023-04-20,John,South,Technology,USB Hub,3908,2,538.06
+1958,2024-06-13,Priya,North,Office Supplies,Binder,200,10,79.68
+1959,2024-03-09,Emily,South,Technology,Monitor,3144,4,813.74
+1960,2023-12-29,Priya,South,Technology,Smartphone,6327,9,1802.81
+1961,2024-08-08,Michael,East,Technology,Monitor,15597,9,2842.86
+1962,2024-02-04,Chandan,South,Office Supplies,Folder,42,2,15.59
+1963,2024-07-31,Chandan,North,Office Supplies,Paper,34,1,10.29
+1964,2024-08-21,David,North,Furniture,Desk,3626,7,384.62
+1965,2024-07-22,Sarah,South,Furniture,Table,6714,9,473.17
+1966,2024-08-01,Amit,North,Office Supplies,Pen Set,13,1,4.48
+1967,2023-11-01,Amit,East,Office Supplies,Stapler,340,10,139.89
+1968,2023-08-11,David,East,Technology,Laptop,4230,10,1088.49
+1969,2023-10-11,John,North,Technology,Headphones,2064,3,426.8
+1970,2024-01-21,Sarah,West,Furniture,Sofa,6784,8,965.23
+1971,2023-11-01,Priya,East,Furniture,Desk,3600,9,180.18
+1972,2024-09-02,John,North,Furniture,Chair,2655,9,244.43
+1973,2024-01-13,Sneha,East,Technology,Laptop,10976,8,2480.48
+1974,2024-08-14,David,South,Technology,Smartphone,2091,3,456.63
+1975,2024-05-23,Amit,East,Office Supplies,Paper,14,2,4.79
+1976,2023-05-31,Rahul,East,Technology,Headphones,1248,3,341.06
+1977,2024-09-30,David,East,Technology,USB Hub,11142,6,1605.04
+1978,2023-10-07,Rahul,North,Technology,Smartphone,732,3,114.79
+1979,2023-05-21,Priya,West,Office Supplies,Binder,60,2,-6.0
+1980,2023-04-22,Sarah,North,Furniture,Sofa,798,2,122.98
+1981,2023-04-08,David,East,Technology,Headphones,2030,10,594.24
+1982,2024-10-11,Sarah,West,Technology,USB Hub,4248,8,933.82
+1983,2024-04-09,John,North,Furniture,Table,3528,4,-352.8
+1984,2024-01-27,Rahul,West,Furniture,Table,5886,9,916.33
+1985,2023-02-12,Emily,North,Office Supplies,Pen Set,294,6,127.38
+1986,2023-07-12,John,East,Furniture,Desk,796,1,73.37
+1987,2024-06-18,Amit,South,Technology,Headphones,5560,5,-556.0
+1988,2023-06-01,Amit,East,Technology,Smartphone,8885,5,2326.44
+1989,2024-07-14,Sneha,West,Furniture,Sofa,4515,7,418.14
+1990,2024-06-26,Amit,North,Technology,Monitor,1373,1,320.37
+1991,2024-02-25,Michael,North,Technology,Headphones,3785,5,613.4
+1992,2024-11-13,Michael,West,Technology,Smartphone,4816,7,876.34
+1993,2024-01-25,John,West,Furniture,Table,1788,3,256.04
+1994,2023-01-07,Sarah,East,Technology,Headphones,7892,4,840.82
+1995,2024-07-14,Amit,South,Furniture,Bookshelf,4779,9,607.89
+1996,2024-02-14,Emily,North,Furniture,Bookshelf,1650,3,195.1
+1997,2024-03-19,John,South,Technology,Laptop,8160,8,2105.04
+1998,2024-07-28,Michael,North,Furniture,Desk,1908,2,260.8
+1999,2023-12-19,John,North,Technology,Headphones,3876,4,777.59
+2000,2023-02-20,Emily,South,Technology,Laptop,9612,6,1481.67
