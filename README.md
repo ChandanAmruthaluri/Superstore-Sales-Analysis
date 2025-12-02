@@ -15,8 +15,7 @@ This project analyzes sales data for a fictional retail superstore to identify p
 * **Q4 Drop:** Identified a significant drop in sales volume during Q4 2024, requiring further investigation into inventory or seasonal demand.
 
 ## 📸 Dashboard Preview
-!(<img width="1213" height="677" alt="image" src="https://github.com/user-attachments/assets/d4fb4149-69da-4772-b800-9dffe144a949" />)
-*(Note: Make sure the filename matches exactly what you uploaded)*
+<img width="1213" height="677" alt="image" src="https://github.com/user-attachments/assets/d4fb4149-69da-4772-b800-9dffe144a949" />
 
 ## 🚀 How to Run
 1.  Run the Jupyter Notebook (`.ipynb`) to generate the dataset.
